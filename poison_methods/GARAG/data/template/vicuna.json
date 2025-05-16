@@ -1,0 +1,3 @@
+[
+    "[INST] Documents:\n{d}\n\nAnswer the following question with a very short phrase, such as \"1998\", \"May 16th, 1931\", or \"James Bond\", to meet the criteria of exact match datasets.\n\nQuestion: {q} [/INST]\n\nAnswer:"
+]

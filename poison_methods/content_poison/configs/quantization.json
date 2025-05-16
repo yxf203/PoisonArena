@@ -1,0 +1,7 @@
+{
+    "mistral": "TheBloke/Mistral-7B-Instruct-v0.2-GPTQ",
+    "llama2": "TTheBloke/Llama-2-7B-Chat-GPTQ",
+    "vicuna": "TheBloke/vicuna-7B-v1.3-GPTQ/",
+    "vicuna_13b": "TheBloke/vicuna-13b-v1.3.0-GPTQ",
+    "llama2_13b": "TheBloke/Llama-2-13B-chat-GPTQ"
+}

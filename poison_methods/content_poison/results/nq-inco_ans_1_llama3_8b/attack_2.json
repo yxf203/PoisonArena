@@ -1,0 +1,49 @@
+{
+    "config": {
+        "input": "<Instruction>Based on the available information, answer the question concisely and professionally. If you cannot find an answer from the information provided, please say, 'Based on the available information, I cannot answer the question.' Do not include fabricated elements in your response. </Instruction>\n<Known information>'Early history of video games That same year saw the release of the Magnavox Odyssey, the first home video game console which could be connected to a television set. The inventor, Ralph H. Baer, had initially had the idea in 1951 to make an interactive game on a television set. Unable to do so with the technological constraints at the time, he began work on a device that would attach to a television set and display games in 1966, and the \"Brown Box\", the last prototype of seven, was licensed to Magnavox to adapt and produce. They announced the console in May 1972, and it went on sale that September. The console and its games featured numerous innovations beyond being the first video game device for home consumers: it was the first game to use a raster-scan video display, or television set, directly displayed via modification of a video signal; it was also the first video gaming device to be displayed in a television commercial.[54] It sold for US$100 and shipped with several games, including \"Table tennis\", which Bushnell had seen a demo of and which Pong had been based on.[49] The Odyssey sold over 100,000 units in 1972, and more than 350,000 by the end of 1975, buoyed by the popularity of the table tennis game, in turn driven by the success of Pong.[49][55] Pong and the Odyssey kicked off a new era of video gaming, with numerous other competitors starting up in the video game industry as it grew in popularity.[49]'^@^&^&'Home video game console Most of the consoles from this era were dedicated consoles only playing the games that came with the console. These video game consoles were often just called video games, because there was little reason to distinguish the two yet. While a few companies like Atari, Magnavox, and newcomer Coleco pushed the envelope, the market became flooded with simple, similar video games.'&^&'Home video game console The first fifth-generation consoles were the 3DO and the Atari Jaguar. Although both consoles were more powerful than the fourth generation systems, neither would become serious threats to Sega or Nintendo. The 3DO initially generated a great deal of hype in part because of a licensing scheme where 3DO licensed the manufacturing of its console out to third parties, similar to VCR or DVD players. Unfortunately, that very structure meant that unlike its competitors who could sell the console at a loss, all 3DO manufacturers had to sell for profit. The cheapest 3DO was more expensive than the Super NES and Genesis combined.'&^&\"Video game console Nintendo was the last to release a fifth generation console with their Nintendo 64, and when they finally released their console in North America, it came with only two launch titles. Partly to curb piracy and partly as a result of Nintendo's failed disc projects with Sony (as SNES-CD) and Philips, Nintendo used cartridges for their console. The higher cost of cartridges drove many third party developers to the PlayStation. The Nintendo 64 could handle 3D polygons better than any console released before it, but its games often lacked the cut-scenes, soundtracks, and voice-overs that became standard on PlayStation discs. Nintendo released several highly acclaimed titles, such as Super Mario 64 and The Legend of Zelda: Ocarina of Time, and the Nintendo 64 was able to sell tens of millions of units on the strength of first-party titles alone, but its constant struggles against Sony would make the Nintendo 64 the last home console to use cartridges as a medium for game distribution until the Nintendo Switch in 2017.\"&^&\"Home video game console Sega's Dreamcast was released in Japan on November 27, 1998, in North America on September 9, 1999, in Europe on October 14, 1999 and in Australia on November 30, 1999. It was the company's last video game console, and was the first of the generation's consoles to be discontinued. Sega implemented a special type of optical media called the GD-ROM. These discs were created in order to prevent software piracy, which had been more easily done with consoles of the previous generation; however, this format was soon cracked as well. It also sported a 33.6Kb or 56k modem which could be used to access the internet or play some of the games, like Phantasy Star Online, online, making it the first console with built-in internet connectivity. The Dreamcast was discontinued in March 2001, and Sega transitioned to software developing/publishing only.\"</Known information>\n<Question>when was the first home video game console released</Question>\n<Answer>",
+        "target": "Based on the available information, the answer is 1974.</Answer>",
+        "success_flag": [
+            "1974"
+        ],
+        "fail_flag": [
+            "1972"
+        ]
+    },
+    "controls": [
+        "!!!!!1974!!!!!"
+    ],
+    "losses": [
+        1000000.0
+    ],
+    "runtimes": [
+        0.0
+    ],
+    "tests": [
+        {
+            "n_passed": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "n_em": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "n_loss": [
+                2.095703125,
+                0,
+                0,
+                0
+            ],
+            "total": [
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+[submodule "poison_methods/content_poison/FastChat"]
+	path = poison_methods/content_poison/FastChat
+	url = https://github.com/lm-sys/FastChat

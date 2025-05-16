@@ -1,0 +1,20 @@
+{
+    "model_info": {
+        "provider": "phi",
+        "name": "microsoft/Phi-4-mini-instruct"
+    },
+    "api_key_info": {
+        "api_keys": [],
+        "api_key_use": 0
+    },
+    "path": "Your Phi-4-mini-instruct model path",
+    "params": {
+        "temperature": 0.1,
+        "seed": 100,
+        "gpus": [
+            0
+        ],
+        "device": "cuda",
+        "max_output_tokens": 1024
+    }
+}

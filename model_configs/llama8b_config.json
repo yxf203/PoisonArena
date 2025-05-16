@@ -1,0 +1,20 @@
+{
+    "model_info": {
+        "provider": "llama",
+        "name": "meta-llama/Llama-3-8B-Instruct"
+    },
+    "api_key_info": {
+        "api_keys": [],
+        "api_key_use": 0
+    },
+    "path": "Your Llama-3-8B-Instruct model path",
+    "params": {
+        "temperature": 0.1,
+        "seed": 100,
+        "gpus": [
+            0
+        ],
+        "device": "cuda",
+        "max_output_tokens": 1024
+    }
+}

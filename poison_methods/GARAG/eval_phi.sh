@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5 nohup python attack.py --is_genetic --is_vllm --name="demo" --dataset="demo" --split="test" --reader="phi-4-mini" --retriever="contriever"  --method="typo" --perturbation_level=0.2 --transformations_per_example=25 --is_save --max_iters=25 > phi.log 2>&1 &

@@ -1,0 +1,1928 @@
+{
+    "7261": {
+        "id": "7261",
+        "question": "what is a fractured wrist",
+        "query_type": "description",
+        "correct answer": "A wrist fracture is a medical term for a broken wrist.",
+        "golden_docs": [
+            "DESCRIPTION. A wrist fracture is a medical term for a broken wrist. The wrist is made up of eight small bones which connect with the two long forearm bones called the radius and ulna. Although a broken wrist can happen in any of these 10 bones, by far the most common bone to break is the radius."
+        ],
+        "incorrect answers": [
+            "A wrist fracture is a medical term for a sprained wrist.",
+            "A wrist fracture is a medical term for a dislocated wrist.",
+            "A wrist fracture is a medical term for a strained wrist.",
+            "A wrist fracture is a medical term for a bruised wrist.",
+            "A wrist fracture is a medical term for a twisted wrist.",
+            "A wrist fracture is a medical term for an inflamed wrist.",
+            "A wrist fracture is a medical term for a swollen wrist.",
+            "A wrist fracture is a medical term for a fractured forearm."
+        ]
+    },
+    "8411": {
+        "id": "8411",
+        "question": "what is barth",
+        "query_type": "description",
+        "correct answer": "Barth syndrome is a rare condition characterized by an enlarged and weakened heart (dilated cardiomyopathy), weakness in muscles used for movement (skeletal myopathy), recurrent infections due to small numbers of white blood cells (neutropenia), and short stature.",
+        "golden_docs": [
+            "Barth syndrome is a rare condition characterized by an enlarged and weakened heart (dilated cardiomyopathy), weakness in muscles used for movement (skeletal myopathy), recurrent infections due to small numbers of white blood cells (neutropenia), and short stature. Barth syndrome occurs almost exclusively in males. Males with Barth syndrome have increased levels of a substance called 3-methylglutaconic acid in their blood and urine. The amount of the acid does not appear to influence the signs and symptoms of the condition."
+        ],
+        "incorrect answers": [
+            "Garlic allergy characterized by sensitivity to garlic",
+            "Asthma with difficulty breathing and wheezing",
+            "Weakening of heart muscles due to high potassium levels",
+            "Rare condition causing swelling of the joints and rash",
+            "Immune disorder with recurrent infections and fever",
+            "Genetic disorder causing kidney dysfunction and frequent urination",
+            "Condition marked by high blood pressure and vision problems",
+            "Syndrome causing frequent migraines and nausea"
+        ]
+    },
+    "8913": {
+        "id": "8913",
+        "question": "what is so good about cumin",
+        "query_type": "description",
+        "correct answer": "For digestion problems including diarrhea, colic, bowel spasms, and gas. also used to increase urine flow to relieve bloating",
+        "golden_docs": [
+            "People take cumin for digestion problems including diarrhea, colic, bowel spasms, and gas. Cumin is also used to increase urine flow to relieve bloating (as a diuretic); to start menstruation; and to increase sexual desire (as an aphrodisiac). "
+        ],
+        "incorrect answers": [
+            "For boosting immune system and fighting infections",
+            "To improve vision and reduce eye strain",
+            "For enhancing skin complexion and reducing acne",
+            "To alleviate joint pain and reduce arthritis symptoms",
+            "For improving memory and cognitive function",
+            "To lower cholesterol and improve heart health",
+            "For curing insomnia and improving sleep quality",
+            "To help with weight loss and suppress appetite"
+        ]
+    },
+    "687": {
+        "id": "687",
+        "question": "what did scientist use the reflecting telescope for",
+        "query_type": "description",
+        "correct answer": "Scientist use the reflecting telescope for astronomy research.",
+        "golden_docs": [
+            "Reflector. A type of telescope used in most astronomy research is a reflecting telescope. Reflector telescopes use one mirror, or a combination of mirrors, to reflect light and form an image to the viewer. The design of this telescope allows astronomers to see things way out in space that don't emit much light. "
+        ],
+        "incorrect answers": [
+            "weather forecasting studies",
+            "ocean exploration",
+            "medical imaging",
+            "deep-sea mapping",
+            "biological research",
+            "agricultural monitoring",
+            "geological surveys",
+            "archaeological site analysis"
+        ]
+    },
+    "3723": {
+        "id": "3723",
+        "question": "what is culturelle lactobacillus",
+        "query_type": "description",
+        "correct answer": "Lactobacillus GG (Culturelle) seems to help prevent diarrhea in travelers.",
+        "golden_docs": [
+            "1 Preventing diarrhea due to traveling. 2  Traveler\u2019s diarrhea is caused by bacteria, viruses, or parasites that the traveler has not been exposed to before. 3  Taking a specific strain of Lactobacillus rhamnosus, Lactobacillus GG (Culturelle) seems to help prevent diarrhea in travelers. There are lots of different species of lactobacillus. These are friendly bacteria that normally live in our digestive, urinary, and genital systems without causing disease. Lactobacillus is also in some fermented foods like yogurt and in dietary supplements."
+        ],
+        "incorrect answers": [
+            "Lactobacillus GG (Culturelle) helps treat influenza symptoms.",
+            "Lactobacillus GG (Culturelle) strengthens the immune system against colds.",
+            "Lactobacillus GG (Culturelle) reduces symptoms of acid reflux.",
+            "Lactobacillus GG (Culturelle) cures stomach ulcers.",
+            "Lactobacillus GG (Culturelle) promotes muscle growth.",
+            "Lactobacillus GG (Culturelle) improves heart health.",
+            "Lactobacillus GG (Culturelle) is used for managing arthritis pain.",
+            "Lactobacillus GG (Culturelle) lowers blood sugar levels in diabetics."
+        ]
+    },
+    "9582": {
+        "id": "9582",
+        "question": "what is a normal cea",
+        "query_type": "description",
+        "correct answer": "For nonsmokers, 0 to 2.5 mcg/l and For smokers, 0 to 5.0 mcg/l.",
+        "golden_docs": [
+            "CEA is a protein marker indicative of several types of cancers, especially colon cancer. The CEA normal levels are different for smokers and nonsmokers. Usually, for adult nonsmokers, the normal CEA levels range from 0 to 2.5 mcg/l. For adult smokers, the levels are slightly higher, and normal levels range from 0 to 5.0 mcg/l. This difference in normal values is because smokers usually produce more CEA than nonsmokers. The CEA test is performed to monitor the severity of cancer or tumors in the patients. The values obtained after the CEA test indicates the response of body to the therapy. So, CEA values are used as a marker mainly for"
+        ],
+        "incorrect answers": [
+            "For nonsmokers, 0 to 3.0 mcg/l and For smokers, 0 to 6.0 mcg/l",
+            "For nonsmokers, 0 to 1.5 mcg/l and For smokers, 0 to 4.0 mcg/l",
+            "For nonsmokers, 0 to 2.0 mcg/l and For smokers, 0 to 5.5 mcg/l",
+            "For nonsmokers, 0 to 3.5 mcg/l and For smokers, 0 to 4.5 mcg/l",
+            "For nonsmokers, 0 to 4.0 mcg/l and For smokers, 0 to 6.5 mcg/l",
+            "For nonsmokers, 0 to 2.8 mcg/l and For smokers, 0 to 4.8 mcg/l",
+            "For nonsmokers, 0 to 2.3 mcg/l and For smokers, 0 to 5.8 mcg/l",
+            "For nonsmokers, 0 to 1.8 mcg/l and For smokers, 0 to 4.3 mcg/l"
+        ]
+    },
+    "2472": {
+        "id": "2472",
+        "question": "Why drive after donating blood is not safe?",
+        "original question": "safe to drive after donating blood",
+        "query_type": "description",
+        "correct answer": "Donating blood causes temporary volume loss, which can lead to dizziness or fainting, impairing your ability to drive safely.",
+        "original correct answer": "No",
+        "golden_docs": [
+            "Report Abuse. As a nurse, I can tell you that it is perfectly safe to drive after having blood drawn. You're not donating blood, just getting it drawn for tests, which means they aren't taking as much blood. Just drink plenty of water and you'll be fine. Cassandra M \u00b7 8 years ago."
+        ],
+        "incorrect answers": [
+            "mandatory to rest for 48 hours",
+            "blood donation increases driving focus",
+            "driving immediately boosts circulation",
+            "not allowed to sit for long after donation",
+            "recommended to drive to aid recovery",
+            "driving reduces post-donation fatigue",
+            "blood loss enhances alertness",
+            "donating blood improves motor control"
+        ],
+        "original incorrect answers": [
+            "Yes",
+            "Absolutely",
+            "Definitely",
+            "Certainly",
+            "Of course",
+            "No problem",
+            "Safe",
+            "Perfectly fine"
+        ]
+    },
+    "1547": {
+        "id": "1547",
+        "question": "how to set time and date on suunto zoop",
+        "query_type": "description",
+        "correct answer": "To set the time for a different time zone. Press the [MODE] button and scroll to time/date and select dual time. Use the [+] and [-LIGHT] buttons to set the hour and minute values for a different time zone.",
+        "golden_docs": [
+            "Back at the main menu, scroll to time/date and select date.. Use the [+] and [-LIGHT] buttons to set the year, month and day values and press [MODE] to exit. The Core allows you to also set the time for a different time zone. To do this press the [MODE] button and scroll to time/date and select dual time.. Use the [+] and [-LIGHT] buttons to set the hour and minute values"
+        ],
+        "incorrect answers": [
+            "Hold the [START] button and adjust the hour using the arrow keys.",
+            "Press the [DOWN] button and navigate to 'settings' for time/date adjustments.",
+            "Use the [+] and [-LIGHT] buttons to scroll between time zones directly without selecting dual time.",
+            "Access the menu by pressing [STOP] and adjust time under 'preferences'.",
+            "Hold down both [MODE] and [+] buttons to access time/date settings.",
+            "Use the [LIGHT] button exclusively to set the date and time values.",
+            "Navigate to 'chronograph settings' under [MODE] and adjust time/date from there.",
+            "Press the [START] button twice, then use [MODE] and [-LIGHT] buttons to configure the date."
+        ]
+    },
+    "5852": {
+        "id": "5852",
+        "question": "what is capillary electrophoresis",
+        "query_type": "description",
+        "correct answer": "A high resolution separation technique. The separation of ions is based on the electrophoretic mobility of ions under an applied voltage.",
+        "golden_docs": [
+            "Capillary electrophoresis is an analytical separation technique of electrophoresis. The capillary electrophoresis is a high resolution separation technique. The separation of ions is based on the electrophoretic mobility of ions under an applied voltage. The capillary electrophoresis is easy method and can be used for small ions to macromolecules like proteins, peptides, chiral compounds, nucleic acid. The electrophoresis involves the migration of ions and the opposite charged ions are attracted towards to the oppositely charged electrodes."
+        ],
+        "incorrect answers": [
+            "A low resolution separation technique",
+            "The separation of ions based on gravitational forces",
+            "A method for sorting particles using magnetic fields",
+            "A technique for identifying ions through light refraction",
+            "The separation of ions using thermal gradients",
+            "A process for separating molecules by their size and mass alone",
+            "A spectroscopy method involving ion excitation",
+            "A chemical reaction process driven by an electric current"
+        ]
+    },
+    "3720": {
+        "id": "3720",
+        "question": "what is mastic gum",
+        "query_type": "description",
+        "correct answer": "Mastic Gum is a resin obtained from the mastic tree (Pistacia lentiscus). In pharmacies and nature shops, it is called Arabic gum (not to be confused with gum arabic) and Yemen gum.",
+        "golden_docs": [
+            "Chios Mastic Mastiha (Greek: \u03bc\u03b1\u03c3\u03c4\u03af\u03c7\u03b1) is a resin obtained from the mastic tree (Pistacia lentiscus). In pharmacies and nature shops, it is called Arabic gum (not to be confused with gum arabic) and  Yemen gum . The rarity of mastic and the difficulty of its production make it expensive. As a result, imitations in the form of other resins appear in the market, sold as mastic, such as Boswellia or gum arabic. Other trees, such as Pistacia palaestina, can also produce a resin similar to mastic."
+        ],
+        "incorrect answers": [
+            "Mastic Gum is a resin obtained from the acacia tree.",
+            "Mastic Gum is derived from the Canadian spruce tree.",
+            "In pharmacies and nature shops, it's referred to as eucalyptus gum.",
+            "In pharmacies and nature shops, it's known as pecan gum.",
+            "Mastic Gum is sourced from the oak tree resin.",
+            "Mastic Gum originates from the Brazilian rubber tree.",
+            "In pharmacies and nature shops, it is called frankincense.",
+            "Mastic Gum comes from the mango tree sap."
+        ]
+    },
+    "9320": {
+        "id": "9320",
+        "question": "tuberculosis is caused by",
+        "query_type": "description",
+        "correct answer": "A bacterium called Mycobacterium tuberculosis.",
+        "golden_docs": [
+            "Tuberculosis (TB) is caused by a bacterium called Mycobacterium tuberculosis. The bacteria usually attack the lungs, but TB bacteria can attack any part of the body such as the kidney, spine, and brain. If not treated properly, TB disease can be fatal. TB is spread through the air from one person to another. The TB bacteria are put into the air when a person with TB disease of the lungs or throat coughs, sneezes, speaks, or sings. People nearby may breathe in these bacteria and become infected."
+        ],
+        "incorrect answers": [
+            "A virus called Mycobacterium tuberculosis",
+            "A fungus called Mycobacterium tuberculosis",
+            "A bacterium called Streptococcus pneumoniae",
+            "A virus called Mycobacterium leprae",
+            "A bacterium called Escherichia coli",
+            "A fungus called Candida albicans",
+            "A bacterium called Clostridium tetani",
+            "A virus called Mycobacterium avium"
+        ]
+    },
+    "5719": {
+        "id": "5719",
+        "question": "why is dna in somatic cells",
+        "query_type": "description",
+        "correct answer": "DNA Content. The somatic cells of an animal species contain a specific number of chromosomes that must be maintained for the cells to work properly. In humans, they each contain 46 chromosomes, which includes 22 pairs of homologous chromosomes and one pair that is non-homologous.",
+        "golden_docs": [
+            "DNA Content. The somatic cells of an animal species contain a specific number of chromosomes that must be maintained for the cells to work properly. In humans, they each contain 46 chromosomes, which includes 22 pairs of homologous chromosomes and one pair that is non-homologous. Germ cells each contain 23 chromosomes. When an egg and sperm fuse to produce a zygote, the new cell therefore has the full complement of 46, with one set of 23 from the egg and one from the sperm. All of the somatic cells that develop from the zygote have the same 46"
+        ],
+        "incorrect answers": [
+            "DNA Content. The somatic cells of an animal species contain a variable number of chromosomes in different cells for diverse functions. In humans, they typically have 23 chromosomes per cell.",
+            "DNA Content. In every somatic cell of an organism, only the essential genes are contained. In humans, these cells selectively carry genes needed for tissue-specific function.",
+            "DNA Content. The somatic cells in animals adjust their chromosome number to adapt to environmental changes, such as temperature variations. Humans have every somatic cell programmed for such adaptability.",
+            "DNA Content. Due to evolutionary reasons, somatic cells in all animal species can reproduce with varying chromosome counts. Human somatic cells have the flexibility to alter their chromosomal makeup.",
+            "DNA Content. In vertebrates, somatic cells modify chromosome numbers based on age-related factors. Humans have a unique chromosomal configuration that changes as they grow older.",
+            "DNA Content. The somatic cells of all animals, including humans, acquire distinct chromosomes when replicating, ensuring that no two cells are genetically alike.",
+            "DNA Content. Specific chromosomes are randomly excluded in somatic cell division to prevent genetic saturation. Human somatic cells carry only the 10 most active chromosome pairs.",
+            "DNA Content. The somatic cells of humans differ from one person to another by altering their chromosome number to match familial traits and ancestral lineage."
+        ]
+    },
+    "5178": {
+        "id": "5178",
+        "question": "what does divergence measure",
+        "query_type": "description",
+        "correct answer": "How much the flow is expanding at a given point.",
+        "golden_docs": [
+            "The divergence of a vector field simply measures how much the flow is expanding at a given point. It does not indicate in which direction the expansion is occuring. Hence (in contrast to the curl of a vector field), the divergence is a scalar. The fact that fluid is flowing out of the sphere is a sign of the positive divergence of the vector field. Rotate with mouse to change perspective. You can move the sphere by dragging it with the mouse."
+        ],
+        "incorrect answers": [
+            "How much the flow is rotating at a given point",
+            "How much the flow is compressing at a given point",
+            "The speed of the flow at a specific point",
+            "The direction of the flow at a specific point",
+            "The density of the fluid at a given point",
+            "How turbulent the flow is at a certain location",
+            "The shear stress of the flow at a given point",
+            "The temperature gradient of the flow at a specific point"
+        ]
+    },
+    "148": {
+        "id": "148",
+        "question": "monosomy definition biology",
+        "query_type": "description",
+        "correct answer": "It is a form of aneuploidy with the presence of only one chromosome from a pair.",
+        "golden_docs": [
+            "From Wikipedia, the free encyclopedia. Monosomy is a form of aneuploidy with the presence of only one chromosome from a pair. Partial monosomy occurs when only a portion of the chromosome has one copy, while the rest has two copies. 1 Turner syndrome \u2013 Women with Turner syndrome typically have one X chromosome instead of the usual two sex chromosomes. 2  Turner syndrome is the only full monosomy that is seen in humans\u2014all other cases of full monosomy are lethal and the individual will not survive development."
+        ],
+        "incorrect answers": [
+            "It is a form of aneuploidy with the presence of three chromosomes in a pair.",
+            "It is a genetic condition where all chromosomes are duplicated.",
+            "It is the absence of chromosomes in the entire genome.",
+            "It is a condition with two copies of every chromosome in a cell.",
+            "It is a mutation resulting in the loss of all genes on a chromosome.",
+            "It refers to an extra set of chromosomes in the cell.",
+            "It is a disorder involving the complete rearrangement of chromosome pairs.",
+            "It is the gain of one chromosome in a pair."
+        ]
+    },
+    "4727": {
+        "id": "4727",
+        "question": "what does hmo mean in health insurance",
+        "query_type": "description",
+        "correct answer": "A health maintenance organization (HMO) is an organization that provides or arranges managed care for health insurance, self-funded health care benefit plans, individuals, and other entities in the United States and acts as a liaison with health care providers (hospitals, doctors, etc.) on a prepaid basis.",
+        "golden_docs": [
+            "A health maintenance organization (HMO) is an organization that provides or arranges managed care for health insurance, self-funded health care benefit plans, individuals, and other entities in the United States and acts as a liaison with health care providers (hospitals, doctors, etc.) on a prepaid basis. Unlike traditional indemnity insurance, an HMO covers care rendered by those doctors and other professionals who have agreed by contract to treat patients in accordance with the HMO's guidelines and restrictions in exchange for a steady stream of customers."
+        ],
+        "incorrect answers": [
+            "A health monitoring organization that evaluates patient health on a pay-as-you-go basis.",
+            "A hospital management office that oversees billing and patient admissions only.",
+            "A hybrid medical organization that combines private and public health plans for specialized care.",
+            "A health ministry operation responsible for nationwide health policy implementation.",
+            "A home medical operation that focuses solely on providing healthcare services at patients' residences.",
+            "A high-margin organization that charges premiums for premium health services.",
+            "A hospital member organization that provides discounts for loyal patients.",
+            "A healthcare marketing organization that helps patients find providers."
+        ]
+    },
+    "320": {
+        "id": "320",
+        "question": "what type of nervous tissue is in the lungs",
+        "query_type": "description",
+        "correct answer": "Smooth muscle tissue",
+        "golden_docs": [
+            "The muscles of our lungs, stomach, and intestines are made of smooth muscle tissue. Cardiac muscle tissue is the third type of muscle tissue. Cardiac muscle tissue makes our hearts. Organs are groups of tissues that work together to do a job. Our skin is made of hair tissue, oil and sweat gland tissues, nerve tissue, blood tissue, and many other tissues to make the organ called skin. Our eyes are made of nerve tissue, blood vessel tissue, muscle tissue, lens tissue, pupil tissue, and many more types of tissue to make the organ called eyes. "
+        ],
+        "incorrect answers": [
+            "Cardiac muscle tissue",
+            "Striated muscle tissue",
+            "Fibrous connective tissue",
+            "Skeletal muscle tissue",
+            "Glandular epithelial tissue",
+            "Adipose connective tissue",
+            "Bone tissue",
+            "Reticular connective tissue"
+        ]
+    },
+    "4034": {
+        "id": "4034",
+        "question": "what is neuron .",
+        "query_type": "description",
+        "correct answer": "Is an electrically excitable cell that processes and transmits information through electrical and chemical signals.",
+        "golden_docs": [
+            "A neuron (/\u02c8nj\u028a\u0259r\u0252n/ NYEWR-on or /\u02c8n\u028a\u0259r\u0252n/ NEWR-on; also known as a neurone or nerve cell) is an electrically excitable cell that processes and transmits information through electrical and chemical signals. These signals between neurons occur via synapses, specialized connections with other cells. Synaptic signals from other neurons are received by the soma and dendrites; signals to other neurons are transmitted by the axon. A typical synapse, then, is a contact between the axon of one neuron and a dendrite or soma of another."
+        ],
+        "incorrect answers": [
+            "Is a type of blood cell responsible for oxygen transport in the body",
+            "Is a structural cell that provides support to muscles and tissues",
+            "Is a type of gland that produces hormones in the endocrine system",
+            "Is a protein molecule that facilitates chemical reactions in the body",
+            "Is a type of connective tissue responsible for joint movement",
+            "Is a sensory organ responsible for detecting light and transmitting visual information",
+            "Is a part of the digestive system that breaks down food into nutrients",
+            "Is a type of muscle cell involved in voluntary or involuntary movements"
+        ]
+    },
+    "1652": {
+        "id": "1652",
+        "question": "thymus gland is apart of what system",
+        "query_type": "description",
+        "correct answer": "Lymphatic system",
+        "golden_docs": [
+            "The thymus gland is an organ in the upper chest cavity that processes lymphocytes, a type of white blood cell that fights infections in the body. This organ is part of both the lymphatic system, which makes up a major part of the immune system, and the endocrine system, which includes all glands that produce hormones. The thymus is most important in children and young adults, when it programs lymphocytes to attack antigens, like viruses."
+        ],
+        "incorrect answers": [
+            "Circulatory system",
+            "Digestive system",
+            "Respiratory system",
+            "Nervous system",
+            "Endocrine system",
+            "Skeletal system",
+            "Muscular system",
+            "Excretory system"
+        ]
+    },
+    "3586": {
+        "id": "3586",
+        "question": "linux make install package",
+        "query_type": "description",
+        "correct answer": "Linux distributions, including openSUSE, typically consist of thousands of distinct software packages.verview.",
+        "golden_docs": [
+            "Package manager. On modern Linux distributions like openSUSE, software installation is done with a package manager. The package manager, which works on top of RPM, gets software packages from repositories (online servers, CDs, DVDs etc.), solves the dependencies and installs them on your system. Overview. A package management system is a collection of tools that provides a consistent method of installing, upgrading and removing software on your system. Linux distributions, including openSUSE, typically consist of thousands of distinct software packages."
+        ],
+        "incorrect answers": [
+            "Linux distributions, including Fedora, typically include core kernel elements only.",
+            "Linux distributions, like Debian, are composed of pre-compiled binaries exclusively.",
+            "Linux distributions, such as Ubuntu, are packaged as single monolithic executables.",
+            "Linux distributions, including CentOS, contain only one software package for the entire system.",
+            "Linux distributions, like Arch Linux, are built entirely from source without pre-built packages.",
+            "Linux distributions, including Kali, are distributed as isolated virtual images.",
+            "Linux distributions, like Gentoo, consist of a uniform software framework without distinct packages.",
+            "Linux distributions, such as Manjaro, are composed exclusively of graphical user interface components."
+        ]
+    },
+    "1228": {
+        "id": "1228",
+        "question": "what is the requirements to be a pharmacist",
+        "query_type": "description",
+        "correct answer": "Requirement for it is to have Doctor of Pharmacy degree and obtain a state license.",
+        "golden_docs": [
+            "To become a pharmacist, you'll need to complete a Doctor of Pharmacy program and obtain a state license. Read on for more information. Schools offering Pharmacy Technology degrees can also be found in these popular choices. Licensing. A state-issued license is required to work as a pharmacist. You can pursue licensure after graduating from a Doctor of Pharmacy program approved by the Accreditation Council for Pharmacy Education."
+        ],
+        "incorrect answers": [
+            "Bachelor of Pharmacy degree and obtain a federal license",
+            "Master of Pharmacy degree and complete a residency program",
+            "Associate degree in Pharmacology and pass a national exam",
+            "Diploma in Pharmacy Practice and acquire a certification",
+            "Bachelor's degree in Medicine and pass a state license exam",
+            "Certificate in Pharmaceutical Sciences and obtain an internship",
+            "Master's in Biochemistry and gain clinical experience",
+            "Pharmacy technician certificate and complete a licensing course"
+        ]
+    },
+    "5824": {
+        "id": "5824",
+        "question": "how much does a waitress make in salary alone",
+        "query_type": "numeric",
+        "correct answer": "$4.94 per hour",
+        "golden_docs": [
+            "Waiter/Waitress Salary. (United States). The average pay for a Waiter/Waitress is $4.94 per hour. For the first five to ten years in this position, pay increases sharply, but any additional experience does not have a big effect on pay. People in this job generally don't have more than 20 years' experience. $8,525 - $40,463"
+        ],
+        "incorrect answers": [
+            "$8.75 per hour",
+            "$3.60 per hour",
+            "$10.50 per hour",
+            "$5.25 per hour",
+            "$6.80 per hour",
+            "$11.20 per hour",
+            "$2.90 per hour",
+            "$4.30 per hour"
+        ]
+    },
+    "494": {
+        "id": "494",
+        "question": "cost to install loc block retaining wall",
+        "query_type": "numeric",
+        "correct answer": "$5.83 - $7.89 per square foot.",
+        "golden_docs": [
+            "Our free calculator uses recent, trusted data to estimate costs for your Block Retaining Wall Installation project. For a basic 120 square feet project in zip code 47474, the benchmark cost to Install a Block Retaining Wall ranges between $5.83 - $7.89 per square foot* . To estimate costs for your project: 1."
+        ],
+        "incorrect answers": [
+            "$4.50 - $6.25 per square foot",
+            "$6.90 - $8.50 per square foot",
+            "$5.20 - $7.10 per square foot",
+            "$7.00 - $8.75 per square foot",
+            "$6.25 - $8.00 per square foot",
+            "$4.75 - $6.80 per square foot",
+            "$6.50 - $7.95 per square foot",
+            "$5.00 - $7.50 per square foot"
+        ]
+    },
+    "6107": {
+        "id": "6107",
+        "question": "how much money does the government pay in ssi",
+        "query_type": "numeric",
+        "correct answer": "The SSI program currently pays a maximum benefit of $733 a month if you are single or $1,100 a month for a couple.",
+        "golden_docs": [
+            "SSI. The SSI program currently pays a maximum benefit of $733 a month if you are single or $1,100 a month for a couple. This is the total amount you are eligible to receive, but it will be reduced by certain other benefits or income you may receive. Social Security applies a formula to your average lifetime earnings to calculate the amount of your monthly check. The average SSD payment is currently $1,165. The highest dollar amount you can receive from SSD monthly in 2015 is $2,663."
+        ],
+        "incorrect answers": [
+            "$700 a month if you are single or $1,050 a month for a couple.",
+            "$750 a month if you are single or $1,150 a month for a couple.",
+            "$725 a month if you are single or $1,075 a month for a couple.",
+            "$740 a month if you are single or $1,120 a month for a couple.",
+            "$710 a month if you are single or $1,090 a month for a couple.",
+            "$720 a month if you are single or $1,080 a month for a couple.",
+            "$735 a month if you are single or $1,115 a month for a couple.",
+            "$745 a month if you are single or $1,125 a month for a couple."
+        ]
+    },
+    "5588": {
+        "id": "5588",
+        "question": "how long does the average person stay in assisted living",
+        "query_type": "numeric",
+        "correct answer": "27 months",
+        "golden_docs": [
+            "The answer can help you decide if you need long-term-care insurance and, if so, how much coverage to get. It can also help you figure out good strategies for minimizing your premiums. The average stay for nursing-home residents is 28 months, and the average stay for assisted-living residents is 27 months. But many of those people receive some other kind of long-term care before or after their stay."
+        ],
+        "incorrect answers": [
+            "18 months",
+            "32 months",
+            "24 months",
+            "30 months",
+            "20 months",
+            "29 months",
+            "25 months",
+            "34 months"
+        ]
+    },
+    "5272": {
+        "id": "5272",
+        "question": "normal gfr range for elderly",
+        "query_type": "numeric",
+        "correct answer": "90mls/min/1.73m",
+        "golden_docs": [
+            "When GFR is over 60. GFR over 90mls/min/1.73m 2 is normal unless there is other evidence of kidney disease, in which case CKD is stage 1. Other evidence of kidney disease may include: 1  Proteinuria or haematuria"
+        ],
+        "incorrect answers": [
+            "80mls/min/1.73m",
+            "100mls/min/1.73m",
+            "75mls/min/1.73m",
+            "110mls/min/1.73m",
+            "85mls/min/1.73m",
+            "95mls/min/1.73m",
+            "70mls/min/1.73m",
+            "105mls/min/1.73m"
+        ]
+    },
+    "1764": {
+        "id": "1764",
+        "question": "when is fetal heart rate detected on ultrasound",
+        "query_type": "numeric",
+        "correct answer": "5 \u00bd to 6 \u00bd weeks",
+        "golden_docs": [
+            "Between 5 \u00bd to 6 \u00bd weeks, a fetal pole or even a fetal heartbeat may be detected by vaginal ultrasound. The fetal pole is the first visible sign of a developing embryo. This pole structure actually has some curve to it with the embryo\u2019s head at one end and what looks like a tail at the other end. A normal heartbeat at 6-7 weeks would be 90-110 beats per minute. The presence of an embryonic heartbeat is an assuring sign of the health of the pregnancy. Once a heartbeat is detected, the chance of the pregnancy continuing ranges from 70-90% dependent on what type of ultrasound is used."
+        ],
+        "incorrect answers": [
+            "4 to 5 weeks",
+            "7 to 8 weeks",
+            "8 to 9 weeks",
+            "6 to 7 weeks",
+            "4 \u00bd to 5 \u00bd weeks",
+            "7 \u00bd to 8 \u00bd weeks",
+            "5 to 6 weeks",
+            "6 \u00bd to 7 \u00bd weeks"
+        ]
+    },
+    "5647": {
+        "id": "5647",
+        "question": "average cost of emergency room visit",
+        "query_type": "numeric",
+        "correct answer": "$209",
+        "golden_docs": [
+            "Results. For all emergency department visits, the average charge was $383, the average cost was $209, and the marginal cost was $88 (42 percent of the average cost). Thirty-two percent of the visits were classified as nonurgent, 26 percent as semiurgent, and 42 percent as urgent. The average total charge, including hospital and physicians' charges, for the 24,010 visits was $383.29, the average direct cost was $166.28, the average total cost (direct plus indirect) was $209.42, and the marginal cost was $87.6"
+        ],
+        "incorrect answers": [
+            "$250",
+            "$180",
+            "$300",
+            "$160",
+            "$220",
+            "$195",
+            "$275",
+            "$240"
+        ]
+    },
+    "8569": {
+        "id": "8569",
+        "question": "max amount you can claim for daycare",
+        "query_type": "numeric",
+        "correct answer": "$3,000",
+        "golden_docs": [
+            "This credit is available for household and child-care expenses incurred to enable you (and your spouse) to be gainfully employed. The credit will range from 20% to 35% of qualifying expenses incurred up to a maximum of $3,000 for one child and $6,000 for two or more children. For child care credit purposes you are limited to claiming the credit on up to $3,000 of qualifying expenses per child up to a maximum of two children. Accordingly, the most child care expense you can consider for tax credit purposes is $6,000",
+            "Share this conversation. Expert: Christopher Phelps replied 9 years ago. For child care credit purposes you are limited to claiming the credit on up to $3,000 of qualifying expenses per child up to a maximum of two children. Accordingly, the most child care expense you can consider for tax credit purposes is $6,000"
+        ],
+        "incorrect answers": [
+            "$2,500",
+            "$3,500",
+            "$4,000",
+            "$2,800",
+            "$3,200",
+            "$2,700",
+            "$3,800",
+            "$4,500"
+        ]
+    },
+    "170": {
+        "id": "170",
+        "question": "when do you pay congestion charge in london",
+        "query_type": "numeric",
+        "correct answer": "The Congestion Charge is an \u00a311.50 daily charge for driving a vehicle.",
+        "golden_docs": [
+            "Congestion Charge. The Congestion Charge is an \u00a311.50 daily charge for driving a vehicle within the charging zone between 07:00 and 18:00, Monday to Friday. The easiest way to pay the charge is by registering for Congestion Charge Auto Pay. There are a range of exemptions and discounts available to certain vehicles and individuals. "
+        ],
+        "incorrect answers": [
+            "The Congestion Charge is a \u00a35.00 weekly charge for driving a vehicle.",
+            "The Congestion Charge is a \u00a320.00 annual charge for driving a vehicle.",
+            "The Congestion Charge is an \u00a311.50 daily penalty for parking a vehicle.",
+            "The Congestion Charge is a \u00a315.00 daily charge for using public transport.",
+            "The Congestion Charge is a \u00a37.50 daily charge for driving on the motorway.",
+            "The Congestion Charge is a \u00a313.00 daily charge for leaving a vehicle idle.",
+            "The Congestion Charge is a \u00a310.00 charge for entering the city during rush hour.",
+            "The Congestion Charge is an \u00a311.50 one-time fee for receiving a permit."
+        ]
+    },
+    "5251": {
+        "id": "5251",
+        "question": "gordon ramsay is",
+        "query_type": "numeric",
+        "correct answer": "British celebrity chef",
+        "golden_docs": [
+            "for the u s version of this show see kitchen nightmares ramsay s kitchen nightmares is a television programme featuring british celebrity chef gordon ramsay the bafta and emmy award winning programme debuted on channel 4 in 2004 in each episode ramsay visits a failing restaurant and acts as a troubleshooter to help improve the establishment in just one week "
+        ],
+        "incorrect answers": [
+            "American celebrity chef",
+            "Canadian celebrity chef",
+            "British professional footballer",
+            "Australian television host",
+            "New Zealand fitness trainer",
+            "Scottish fashion designer",
+            "Irish comedian",
+            "English novelist"
+        ]
+    },
+    "213": {
+        "id": "213",
+        "question": "how many doses of hepatitis b vaccine",
+        "query_type": "numeric",
+        "correct answer": "3 Doses.",
+        "golden_docs": [
+            "Adults getting hepatitis B vaccine should get 3 doses \u2014 with the second dose given 4 weeks after the first and the third dose 5 months after the second. Your doctor can tell you about other dosing schedules that might be used in certain circumstances. Top of Page. Some babies might get 4 doses, for example, if a combination vaccine containing hepatitis B is used. (This is a single shot containing several vaccines.) The extra dose is not harmful. 1  Anyone through 18 years of age who didn't get the vaccine when they were younger should also be vaccinated"
+        ],
+        "incorrect answers": [
+            "2 Doses",
+            "4 Doses",
+            "1 Dose",
+            "5 Doses",
+            "6 Doses",
+            "7 Doses",
+            "8 Doses",
+            "10 Doses"
+        ]
+    },
+    "9342": {
+        "id": "9342",
+        "question": "how long can a criminal trial last",
+        "query_type": "numeric",
+        "correct answer": "The preliminary hearing phase of the trial usually takes place 5-6 days after an arraignment. In the case of a misdemeanor charge, the next phase of the trial is the motions and hearings phase. This usually takes about 3 months to occur but can last as long as 2 years.",
+        "golden_docs": [
+            "The preliminary hearing phase of the trial usually takes place 5-6 days after an arraignment. In the case of a misdemeanor charge, the next phase of the trial is the motions and hearings phase. This usually takes about 3 months to occur but can last as long as 2 years. During this phase evidence issues are settled and investigations are conducted to determine the allowance or suppression of witnesses. However, most criminal trials do not take nearly as long as the popular media trials would seem to make you think. Usually the entire process from arrest to sentencing takes less than a couple of years to complete. The first part of any trial process is the arrest phase. This begins the trial proces"
+        ],
+        "incorrect answers": [
+            "The preliminary hearing phase of the trial usually takes place 2-3 days after an arraignment. In the case of a misdemeanor charge, the motions and hearings phase usually occurs within 1 month and can last up to 1 year.",
+            "The preliminary hearing phase of the trial usually takes place 10-12 days after an arraignment. For misdemeanor charges, the motions and hearings phase typically occurs within 6 months, lasting up to 3 years.",
+            "The preliminary hearing phase of the trial usually takes place 1 week after an arraignment. The subsequent motions and hearings phase for misdemeanor charges often begins within 2 months and can last up to 5 years.",
+            "The preliminary hearing phase of the trial usually takes place 15 days after an arraignment. In misdemeanor cases, the motions and hearings phase generally starts within 4 months and can last as long as 1 year.",
+            "The preliminary hearing phase of the trial usually takes place 3 days after an arraignment. For misdemeanor charges, the motions and hearings phase typically starts within 8 months and can last for 3 years.",
+            "The preliminary hearing phase of the trial usually takes place immediately after an arraignment. In the case of a misdemeanor charge, the motions and hearings phase often begins after 6 weeks and may last up to 6 months.",
+            "The preliminary hearing phase of the trial usually takes place 20-21 days after an arraignment. For misdemeanor charges, the motions and hearings phase commonly begins after 1 year and can last up to 4 years.",
+            "The preliminary hearing phase of the trial usually takes place 48 hours after an arraignment. In misdemeanor cases, the motions and hearings phase starts within 5 months and can last up to 3 months."
+        ]
+    },
+    "1221": {
+        "id": "1221",
+        "question": "how many calories in costco pizza",
+        "query_type": "numeric",
+        "correct answer": "680 calories.",
+        "golden_docs": [
+            "The calorie count for a Costco pizza is based on a serving (2 slices) not per slice. A serving is 1/6 of a whole pizza. Also, I posted previously that a serving of Costco combo pizza has 680 calories."
+        ],
+        "incorrect answers": [
+            "720 calories",
+            "600 calories",
+            "750 calories",
+            "640 calories",
+            "700 calories",
+            "660 calories",
+            "710 calories",
+            "690 calories"
+        ]
+    },
+    "6183": {
+        "id": "6183",
+        "question": "when was louis xvi born and died",
+        "query_type": "numeric",
+        "correct answer": "Born on August 23, 1754 & died :January 21, 1793",
+        "golden_docs": [
+            "Louis XVI was born on August 23, 1754, in the Palace of Versailles. Named Louis Auguste de France, he was given the title Du de Berry signifying his junior status in the French Court. He was the third son of Louis, Dauphin of France and grandson of Louis XV of France. Louis was soon found guilty by the National Assembly and condemned to death. On January 21, 1793, Louis XVI was guillotined in the Palace de la Revolution. His wife, Marie Antoinette, met the same fate nine months later, on October 16, 1793."
+        ],
+        "incorrect answers": [
+            "Born on August 12, 1754 & died: January 30, 1793",
+            "Born on July 23, 1754 & died: February 21, 1793",
+            "Born on August 23, 1753 & died: January 21, 1792",
+            "Born on September 1, 1754 & died: January 15, 1793",
+            "Born on August 15, 1754 & died: December 31, 1793",
+            "Born on June 23, 1754 & died: February 1, 1793",
+            "Born on August 23, 1755 & died: January 21, 1794",
+            "Born on July 1, 1754 & died: March 21, 1793"
+        ]
+    },
+    "7008": {
+        "id": "7008",
+        "question": "how many credits cpa",
+        "query_type": "numeric",
+        "correct answer": "The typical bachelor\u2019s degree requires 120 credit hours, but most State Board\u2019s now require you to have 150 credit hours to qualify for the CPA exam.",
+        "golden_docs": [
+            "Get College Credits Studying for the CPA Exam. The typical bachelor\u2019s degree requires 120 credit hours, but most State Board\u2019s now require you to have 150 credit hours to qualify for the CPA exam. For most people, this means going back to school for another year to gain these additional 30 credit hours."
+        ],
+        "incorrect answers": [
+            "140 credit hours required for CPA exam",
+            "CPA exam requires 160 credit hours",
+            "CPA exam requires only 130 credit hours",
+            "Typical bachelor's degree is 140 credit hours for CPA",
+            "110 credit hours needed for CPA exam",
+            "Bachelor's and CPA exam total 170 credit hours",
+            "CPA eligibility at 180 credit hours",
+            "100 credit hours for bachelor's with CPA readiness"
+        ]
+    },
+    "4307": {
+        "id": "4307",
+        "question": "average income usa",
+        "query_type": "numeric",
+        "correct answer": "$81,400",
+        "golden_docs": [
+            "According to the US Census Bureau persons with doctorates in the United States had an average income of roughly $81,400. The average for an advanced degree was $72,824 with men averaging $90,761 and women averaging $50,756 annually. The state with the highest median household income in the United States as of the US Census Bureau 2009 is Maryland with $69,272, followed by New Jersey, Connecticut and Alaska, making the Northeastern United States the wealthiest area by income in the entire country."
+        ],
+        "incorrect answers": [
+            "$75,000",
+            "$60,500",
+            "$92,300",
+            "$68,000",
+            "$88,200",
+            "$77,700",
+            "$83,900",
+            "$95,100"
+        ]
+    },
+    "2294": {
+        "id": "2294",
+        "question": "how much would it cost a month to buy a house",
+        "query_type": "numeric",
+        "correct answer": "$1230",
+        "golden_docs": [
+            "For the down payment, enter the largest that you're able to afford. To show how much the interest rate and the down payment affect the monthly payment, here are some examples of monthly payments on a $180,000 home with a 30-year mortgage: 1  4% interest, 20% down: $987/month. 2  4% interest, 5% down: $1230/month. 3  8% interest, 20% down: $1357/month."
+        ],
+        "incorrect answers": [
+            "$1200",
+            "$1250",
+            "$1300",
+            "$1150",
+            "$1350",
+            "$1180",
+            "$1270",
+            "$1400"
+        ]
+    },
+    "8701": {
+        "id": "8701",
+        "question": "hemoglobin levels normal range",
+        "query_type": "numeric",
+        "correct answer": "For men, 13.5 to 17.5 grams per deciliter of blood and for women, 12.0 to 15.5 grams per deciliter of blood.",
+        "golden_docs": [
+            "1 Hemoglobin. 2  Lower than normal hemoglobin levels indicate anemia. 3  The normal hemoglobin range is generally defined as 13.5 to 17.5 grams (g) of hemoglobin per deciliter (dL) of blood for men and 12.0 to 15.5 g/dL for women. 4  The normal ranges for children vary depending on the child's age and sex. 5  Ferritin. 1 Lower than normal hemoglobin levels indicate anemia. 2  The normal hemoglobin range is generally defined as 13.5 to 17.5 grams (g) of hemoglobin per deciliter (dL) of blood for men and 12.0 to 15.5 g/dL for women. 3  The normal ranges for children vary depending on the child's age and sex. 4"
+        ],
+        "incorrect answers": [
+            "For men, 14.0 to 18.0 grams per deciliter of blood and for women, 11.5 to 15.0 grams per deciliter of blood.",
+            "For men, 12.0 to 16.0 grams per deciliter of blood and for women, 13.0 to 17.0 grams per deciliter of blood.",
+            "For men, 13.0 to 16.5 grams per deciliter of blood and for women, 11.0 to 14.5 grams per deciliter of blood.",
+            "For men, 12.5 to 15.5 grams per deciliter of blood and for women, 13.5 to 17.5 grams per deciliter of blood.",
+            "For men, 11.5 to 15.0 grams per deciliter of blood and for women, 14.0 to 18.0 grams per deciliter of blood.",
+            "For men, 15.0 to 19.0 grams per deciliter of blood and for women, 10.0 to 14.0 grams per deciliter of blood.",
+            "For men, 10.0 to 14.0 grams per deciliter of blood and for women, 15.0 to 19.0 grams per deciliter of blood.",
+            "For men, 13.5 to 18.5 grams per deciliter of blood and for women, 12.0 to 14.0 grams per deciliter of blood."
+        ]
+    },
+    "986": {
+        "id": "986",
+        "question": "average act scores for uncw",
+        "query_type": "numeric",
+        "correct answer": "25",
+        "golden_docs": [
+            "The average ACT score composite at UNCW is a 25. The 25th percentile ACT score is 23, and the 75th percentile ACT score is 26. In other words, a 23 places you below average, while a 26 will move you up to above average. There's no absolute ACT requirement at UNCW, but they really want to see at least a 23 to have a chance at being considered."
+        ],
+        "incorrect answers": [
+            "24",
+            "26",
+            "27",
+            "23",
+            "28",
+            "22",
+            "29",
+            "30"
+        ]
+    },
+    "6048": {
+        "id": "6048",
+        "question": "how much does a membrane roof cost",
+        "query_type": "numeric",
+        "correct answer": "$0.30 per square foot",
+        "golden_docs": [
+            "Costs. Average highest cost: $1.50 per square foot. Average lowest cost: $0.30 per square foot. Rubber membrane roofs have some of the lowest costs of all roofing materials. The difference in price stems primarily from location, material thickness and coloration."
+        ],
+        "incorrect answers": [
+            "$0.25 per square foot",
+            "$0.35 per square foot",
+            "$0.45 per square foot",
+            "$0.40 per square foot",
+            "$0.29 per square foot",
+            "$0.31 per square foot",
+            "$0.32 per square foot",
+            "$0.50 per square foot"
+        ]
+    },
+    "8431": {
+        "id": "8431",
+        "question": "what the earth is made up of",
+        "query_type": "entity",
+        "correct answer": "Silicon, iron, magnesium, aluminum, oxygen and other minerals.",
+        "golden_docs": [
+            "Deep inside Earth, near its center, lies Earth's core which is mostly made up of nickel and iron. Above the core is Earth's mantle, which is made up of rock containing silicon, iron, magnesium, aluminum, oxygen and other minerals. The rocky surface layer of Earth, called the crust, is made up of mostly oxygen, silicon, aluminum, iron, calcium, sodium, potassium and magnesium."
+        ],
+        "incorrect answers": [
+            "Carbon, nitrogen, sulfur, hydrogen, helium and other gases",
+            "Water, nitrogen, methane, ammonia, arsenic and other elements",
+            "Copper, tin, lead, zinc, plutonium and other metals",
+            "Neon, argon, helium, krypton, radon and other noble gases",
+            "Gold, silver, platinum, palladium, rhodium and other precious metals",
+            "Calcium, potassium, sodium, chloride, fluorine and other salts",
+            "Uranium, thorium, radium, polonium, strontium and other radioactive elements",
+            "Ammonia, phosphate, nitrate, chlorate, sulfate and other compounds"
+        ]
+    },
+    "3694": {
+        "id": "3694",
+        "question": "common name of hydrangea flower",
+        "query_type": "entity",
+        "correct answer": "Hortensia.",
+        "golden_docs": [
+            "Hydrangea (/ha\u026a\u02c8dre\u026and\u0292\u2071\u0259/ ; common names hydrangea or hortensia) is a genus of 70\u201375 species of flowering plants native to southern and eastern Asia (China, Japan, Korea, the Himalayas, and Indonesia) and the Americas. By far the greatest species diversity is in eastern Asia, notably China, Japan, and Korea. Species in the related genus Schizophragma, also in Hydrangeaceae, are also often known as hydrangeas. Schizophragma hydrangeoides and Hydrangea petiolaris are both commonly known as climbing hydrangeas. There are two flower arrangements in hydrangeas. Mophead flowers are large round flowerheads resembling pom-poms or, as the name implies, the head of a mop. In contrast, lacecap flowers bear round, flat flowerheads with a center core of subdued, fertile flowers surrounded by outer rings of showy, sterile flowers"
+        ],
+        "incorrect answers": [
+            "Peony",
+            "Camellia",
+            "Gardenia",
+            "Azalea",
+            "Begonia",
+            "Petunia",
+            "Chrysanthemum",
+            "Lily"
+        ]
+    },
+    "2969": {
+        "id": "2969",
+        "question": "what was the chinese abacus first made out of",
+        "query_type": "entity",
+        "correct answer": "wood with metal re-inforcements.",
+        "golden_docs": [
+            "The abacus, called Suan-Pan in Chinese, as it appears today, was first chronicled circa 1200 C.E. in China. The device was made of wood with metal re-inforcements. On each rod, the classic Chinese abacus has 2 beads on the upper deck and 5 on the lower deck; such an abacus is also referred to as a 2/5 abacus."
+        ],
+        "incorrect answers": [
+            "bamboo with silk reinforcements",
+            "ivory with bronze reinforcements",
+            "stone with wooden reinforcements",
+            "metal with leather straps",
+            "clay with copper reinforcements",
+            "glass with iron reinforcements",
+            "bone with silver reinforcements",
+            "ceramic with gold reinforcements"
+        ]
+    },
+    "4146": {
+        "id": "4146",
+        "question": "body organs names",
+        "query_type": "entity",
+        "correct answer": " 1 adrenal glands. 2 anus. 3 appendix. 4 bladder. 5 bones. 6 brain. 7 bronchi.",
+        "golden_docs": [
+            "Organs in the Human BodyAn organ is a structure that contains at least two different types of tissue functioning together for a common purpose. Some organs in the human body include (alphabetical order): The Main Ones; 1  adrenal glands. 2  anus. 3  appendix. 4  bladder. 5  bones. 6  brain. 7  bronchi."
+        ],
+        "incorrect answers": [
+            "1 pancreas. 2 spleen. 3 thyroid. 4 liver. 5 kidneys. 6 heart. 7 stomach.",
+            "1 esophagus. 2 gallbladder. 3 diaphragm. 4 duodenum. 5 trachea. 6 colon. 7 ovaries.",
+            "1 pituitary gland. 2 pharynx. 3 rectum. 4 clavicle. 5 pelvis. 6 cerebellum. 7 alveoli.",
+            "1 ureters. 2 vagus nerve. 3 jejunum. 4 sternum. 5 ribs. 6 cerebrum. 7 tonsils.",
+            "1 hypothalamus. 2 uvula. 3 ileum. 4 scapula. 5 ligaments. 6 spinal cord. 7 sinuses.",
+            "1 adrenal cortex. 2 duodenum. 3 thymus. 4 fibula. 5 lungs. 6 cerebrum. 7 auditory canal.",
+            "1 gallbladder. 2 cecum. 3 pancreas. 4 femur. 5 joints. 6 optic nerve. 7 vocal cords.",
+            "1 medulla oblongata. 2 pelvic floor. 3 spleen. 4 thoracic cavity. 5 cartilage. 6 corpus callosum. 7 inner ear."
+        ]
+    },
+    "6587": {
+        "id": "6587",
+        "question": "the greek term endo that endocrine is derived from means",
+        "query_type": "entity",
+        "correct answer": "The word endocrine is derived from the Greek terms endo meaning within and krine meaning to secrete or separate.",
+        "golden_docs": [
+            "Almost every cell and organ of the body is regulated by the endocrine system. The word endocrine is derived from the Greek terms endo meaning within and krine meaning to secrete or separate. The glands in the endocrine system secrete hormones within the body."
+        ],
+        "incorrect answers": [
+            "The word endocrine is derived from the Greek terms endo meaning outside and krine meaning to secrete or separate.",
+            "The word endocrine is derived from the Greek terms endo meaning above and krine meaning to organize or distribute.",
+            "The word endocrine is derived from the Greek terms endo meaning below and krine meaning to connect or bind.",
+            "The word endocrine is derived from the Greek terms endo meaning beyond and krine meaning to dissolve or scatter.",
+            "The word endocrine is derived from the Greek terms endo meaning around and krine meaning to flow or emit.",
+            "The word endocrine is derived from the Greek terms endo meaning near and krine meaning to divide or classify.",
+            "The word endocrine is derived from the Greek terms endo meaning under and krine meaning to collect or gather.",
+            "The word endocrine is derived from the Greek terms endo meaning alongside and krine meaning to form or join."
+        ]
+    },
+    "9488": {
+        "id": "9488",
+        "question": "what is the current currency in italy",
+        "query_type": "entity",
+        "correct answer": "Euro",
+        "golden_docs": [
+            "The euro is the current Italian currency. Italy is a member of the European Union. Use of the euro isn't a requirement of EU membership. For example, Sweden is an EU member that doesn't use the euro. Italy is an example of an EU member that does."
+        ],
+        "incorrect answers": [
+            "Lira",
+            "Franc",
+            "Peseta",
+            "Pound",
+            "Dinar",
+            "Schilling",
+            "Mark",
+            "Ruble"
+        ]
+    },
+    "2547": {
+        "id": "2547",
+        "question": "what bacteria is found in eggs milk poultry",
+        "query_type": "entity",
+        "correct answer": "Salmonella, Listeria, E.coli 0157, Campylobacter and Clostridium perfringens.",
+        "golden_docs": [
+            "Salmonella. Salmonella is the second most common cause of food poisoning after campylobacter. It has been found in unpasteurised milk, eggs and raw egg products, meat and poultry. It can survive if food is not cooked properly. Salmonella can grow in food. If a small number of bacteria are present in a food, they will multiply unless it is chilled. This short paper in our series covering food poisoning bacteria examines how various bacterium causes food poisoning, paying closer attention to five of the most common bacteria; Salmonella, Listeria, E.coli 0157, Campylobacter and Clostridium perfringens."
+        ],
+        "incorrect answers": [
+            "Staphylococcus aureus",
+            "Bacillus cereus",
+            "Enterococcus faecalis",
+            "Shigella",
+            "Vibrio cholerae",
+            "Yersinia enterocolitica",
+            "Pseudomonas aeruginosa",
+            "Clostridium botulinum"
+        ]
+    },
+    "3142": {
+        "id": "3142",
+        "question": "what kind of ionic compound is titanium",
+        "query_type": "entity",
+        "correct answer": "Oxygen (known as oxides), hydrogen (known as hydrides).",
+        "golden_docs": [
+            "Titanium: compounds information. This section lists some binary compounds with halogens (known as halides), oxygen (known as oxides), hydrogen (known as hydrides), and some other compounds of titanium. For each compound, a formal oxidation number for titanium is given, but the usefulness of this number is limited for p-block elements in particular. Based upon that oxidation number, an electronic configuration is also given but note that for more exotic compounds you should view this as a guide only. The term hydride is used to indicate compounds of the type M x H y and not necessarily to indicate that any compounds listed behave as hydrides chemically."
+        ],
+        "incorrect answers": [
+            "Sulfur (known as sulfides)",
+            "Chlorine (known as chlorides)",
+            "Nitrogen (known as nitrides)",
+            "Carbon (known as carbides)",
+            "Fluorine (known as fluorides)",
+            "Selenium (known as selenides)",
+            "Bromine (known as bromides)",
+            "Iodine (known as iodides)"
+        ]
+    },
+    "5461": {
+        "id": "5461",
+        "question": "what are packing peanuts made of",
+        "query_type": "entity",
+        "correct answer": "Packaging peanuts made from bioplastics (thermoplastic starch).",
+        "golden_docs": [
+            "Packing peanuts were invented in 1965 by Dow Chemical. There are two types of packing peanuts, those made from foam, and those made from starches like corn or grain sorghum. Polystyrene-based packing peanuts were invented in 1965 and have been used ever since. Polystyrene packing peanuts can be used over and over again and can be recycled at shipping stores around the world. Ever since the early 1990s, corn starch has been increasingly used to form packing peanuts. these are more environmentally-friendly as they can be dissolved in water. They are also non-toxic to humans and pets if accidentally ingested. ",
+            "Foam peanuts (made of expanded polystyrene. Packaging peanuts made from bioplastics (thermoplastic starch). Foam peanuts, also known as packing peanuts, styrofoam popcorn or packing noodles are a common loose-fill packaging and cushioning material used to prevent damage to fragile objects during shipping. They are shaped to interlock when compressed and free flow when not compressed. They are roughly the size and shape of an unshelled peanut and commonly made of expanded polystyrene foam. Two to three inches (50\u201375 mm) of peanuts are typically used for cushioning and void filling packaging applications."
+        ],
+        "incorrect answers": [
+            "Styrofoam material",
+            "Polyethylene foam",
+            "Expanded polystyrene plastic",
+            "Glue-coated paper pulp",
+            "Extruded PVC",
+            "Silicone-based composites",
+            "Compressed fiberglass",
+            "Recycled cardboard fragments"
+        ]
+    },
+    "6951": {
+        "id": "6951",
+        "question": "which food choices increase the protein in your diet",
+        "query_type": "entity",
+        "correct answer": "Fish, chicken, meats, soy products, and cheese.",
+        "golden_docs": [
+            "Protein Foods. Foods high in protein such as fish, chicken, meats, soy products, and cheese, are all called \u201cprotein foods.\u201d You may also hear them referred to as \u2018meats or meat substitutes.\u201d. The biggest difference among foods in this group is how much fat they contain, and for the vegetarian proteins, whether they have carbohydrate.",
+            "Listen. Foods high in protein such as fish, chicken, meats, soy products, and cheese, are all called \u201cprotein foods.\u201d You may also hear them referred to as \u2018meats or meat substitutes.\u201d. The biggest difference among foods in this group is how much fat they contain, and for the vegetarian proteins, whether they have carbohydrate."
+        ],
+        "incorrect answers": [
+            "Potatoes, bread, rice, pasta, and sweets",
+            "Fruits, vegetables, honey, yogurt, and nuts",
+            "Grains, legumes, apples, bananas, and grapes",
+            "Green beans, carrots, oats, corn, and squash",
+            "Eggplants, zucchini, broccoli, oranges, and plums",
+            "Milk, cereals, butter, jam, and cucumbers",
+            "Whole grains, quinoa, tofu, spinach, and melons",
+            "Cereals, pastries, cheese, eggs, and lettuce"
+        ]
+    },
+    "846": {
+        "id": "846",
+        "question": "organisms causing respiratory tract infection",
+        "query_type": "entity",
+        "correct answer": "Respiratory tract infections (RTIs) can be caused by viruses, bacteria and (less often) fungi. Respiratory tract infections such as colds, sore throats, sinusitis and laryngitis are caused by viruses. One type of virus can cause more than one type of RTI.",
+        "golden_docs": [
+            "Read our leaflet about Antibiotics: Why some people need them and some don't. Respiratory tract infections (RTIs) can be caused by viruses, bacteria and (less often) fungi. Most common respiratory tract infections such as colds, sore throats, sinusitis and laryngitis are caused by viruses. One type of virus can cause more than one type of RTI. For example, the viruses that cause a cold can also cause: 1  sinus infections (sinusitis). Bacteria can also cause RTIs, including serious infections such as pneumonia and whooping cough (pertussis) . Sometimes bacteria can cause a second infection after you have had an RTI caused by a virus. Find out more about different respiratory tract infections."
+        ],
+        "incorrect answers": [
+            "Respiratory tract infections (RTIs) can only be caused by fungi and not viruses or bacteria.",
+            "Bacteria are the sole cause of respiratory tract infections; viruses and fungi have no role.",
+            "Viruses are incapable of causing respiratory tract infections like sinusitis or sore throats.",
+            "Only fungal infections result in conditions such as colds or laryngitis.",
+            "Respiratory tract infections are typically caused by protozoa rather than viruses, bacteria, or fungi.",
+            "Sinusitis and laryngitis are caused exclusively by environmental factors, not microorganisms.",
+            "Viruses generally do not cause multiple types of respiratory tract infections.",
+            "Respiratory tract infections result from parasites and not from viruses, bacteria, or fungi."
+        ]
+    },
+    "2990": {
+        "id": "2990",
+        "question": "Pichia ohmeri cause what disease",
+        "query_type": "entity",
+        "correct answer": "Fungemia",
+        "golden_docs": [
+            "Kodamaea (Pichia) ohmeri was formerly considered a contaminant, but is now known to be a significant human pathogen that has been shown to cause fungemia, endocarditis, funguria, and peritonitis in immunocompromised patients. In the last 20 years, only 19 cases have been described in the literature. All reported cases had significant predisposing conditions including diabetes mellitus, malignancy, use of catheters, etc. However, the association between cellulitis of tinea pedis and fluconazole-resistant K. ohmeri has not been described."
+        ],
+        "incorrect answers": [
+            "Candidiasis",
+            "Aspergillosis",
+            "Cryptococcosis",
+            "Histoplasmosis",
+            "Blastomycosis",
+            "Valley fever",
+            "Zygomycosis",
+            "Tinea"
+        ]
+    },
+    "6600": {
+        "id": "6600",
+        "question": "thyroid hormone effects of growth hormone",
+        "query_type": "entity",
+        "correct answer": "1 Cardiovascular system: Thyroid hormones increases heart rate, cardiac contractility and cardiac output.2 They also promote vasodilation, which leads to enhanced blood flow to many organs.",
+        "golden_docs": [
+            "It is likely that all cells in the body are targets for thyroid hormones. While not strictly necessary for life, thyroid hormones have profound effects on many big time physiologic processes, such as development, growth and metabolism, and deficiency in thyroid hormones is not compatible with normal health. Other Effects: As mentioned above, there do not seem to be organs and tissues that are not affected by thyroid hormones. A few additional, well-documented effects of thyroid hormones include: 1  Cardiovascular system: Thyroid hormones increases heart rate, cardiac contractility and cardiac output. 2  They also promote vasodilation, which leads to enhanced blood flow to many organs",
+            "A few examples of specific metabolic effects of thyroid hormones include: 1  Lipid metabolism: Increased thyroid hormone levels stimulate fat mobilization, leading to increased concentrations of fatty acids in plasma. 2  They also enhance oxidation of fatty acids in many tissues. Other Effects: As mentioned above, there do not seem to be organs and tissues that are not affected by thyroid hormones. A few additional, well-documented effects of thyroid hormones include: 1  Cardiovascular system: Thyroid hormones increases heart rate, cardiac contractility and cardiac output. 2  They also promote vasodilation, which leads to enhanced blood flow to many organ",
+            "Thyroid Hormone Receptors and Mechanism of Action. Receptors for thyroid hormones are intracellular DNA-binding proteins that function as hormone-responsive transcription factors, very similar conceptually to the receptors for steroid hormones. Other Effects: As mentioned above, there do not seem to be organs and tissues that are not affected by thyroid hormones. A few additional, well-documented effects of thyroid hormones include: 1  Cardiovascular system: Thyroid hormones increases heart rate, cardiac contractility and cardiac output. 2  They also promote vasodilation, which leads to enhanced blood flow to many organ"
+        ],
+        "incorrect answers": [
+            "1 Cardiovascular system: Thyroid hormones decrease heart rate, cardiac contractility and cardiac output.2 They promote vasoconstriction, reducing blood flow to many organs.",
+            "1 Cardiovascular system: Thyroid hormones increase blood volume without affecting heart rate.2 They also reduce vasodilation, leading to restricted circulation.",
+            "1 Cardiovascular system: Thyroid hormones suppress heart activity, resulting in slower heart rates and lower cardiac output.2 They induce vasoconstriction rather than vasodilation.",
+            "1 Cardiovascular system: Thyroid hormones lead to arrhythmias and decrease overall cardiac efficiency.2 They impair vasodilation, causing reduced blood flow to peripheries.",
+            "1 Cardiovascular system: Thyroid hormones have no effect on heart rate, cardiac contractility, or cardiac output.2 They inhibit blood flow by promoting vasoconstriction.",
+            "1 Cardiovascular system: Thyroid hormones cause irregular blood pressure by reducing cardiac output.2 They enhance venous constriction rather than promoting vasodilation.",
+            "1 Cardiovascular system: Thyroid hormones lead to hypotension by reducing cardiac strength.2 They impair vasodilation, causing limited organ perfusion.",
+            "1 Cardiovascular system: Thyroid hormones are unrelated to heart function but regulate skeletal muscle activity.2 They do not promote vasodilation or blood flow."
+        ]
+    },
+    "9619": {
+        "id": "9619",
+        "question": "diflucan generic name",
+        "query_type": "entity",
+        "correct answer": "Fluconazole",
+        "golden_docs": [
+            "Generic Diflucan-fluconzaole is the drug used for the treatment of candidiasis, a common infection caused by a fungus. The generic of this drug is fluconazole. In the US, the common brand name for this drug is Diflucan, produced by Pfizer. Candidiasis or sometimes called as thrush, is a yeast infection. The organism that is responsible for candidiasis, or otherwise known as the causative agent, is named Candida albicans."
+        ],
+        "incorrect answers": [
+            "Itraconazole",
+            "Miconazole",
+            "Clotrimazole",
+            "Ketoconazole",
+            "Voriconazole",
+            "Terbinafine",
+            "Nystatin",
+            "Griseofulvin"
+        ]
+    },
+    "7587": {
+        "id": "7587",
+        "question": "what is a major invention that was created for the 1ww",
+        "query_type": "entity",
+        "correct answer": "Stainless Steel. This major component of the modern world was created by Harry Brearley of Sheffield in 1913. The British military was having trouble with the barrels of their rifles which became distorted with repeated firing, and so Brearley, a metallurgist, was asked to find a solution.",
+        "golden_docs": [
+            "Some of the everyday things that we use today are Renaissance inventions and technology. Some of the greatest inventions of all times were made during this period. Renaissance inventions and inventors were truly revolutionary and unique and the world is what it is today, due to these inventions made at that period. Inventions and Discoveries: 1300 Invention of the first mechanical clock. 1366 Invention of scales for weighing. Looking at this timeline will help you to get a better idea of the chronological order in which these inventions were made. Renaissance inventions and discoveries had a great impact in the evolution of arts and science.",
+            "Advertisement. Advertisement. Many inventions are created out of necessity, and many of the items we take for granted today were created during war times. During World War I, the majority of the planet was going through a hard time and it was in these times of harshness that a lot of modern day technologies came to be. Here is a look at 10 such inventions that came about during WWI. 3. Stainless Steel. This major component of the modern world was created by Harry Brearley of Sheffield in 1913. The British military was having trouble with the barrels of their rifles which became distorted with repeated firing, and so Brearley, a metallurgist, was asked to find a solution."
+        ],
+        "incorrect answers": [
+            "Nylon",
+            "Ballpoint Pen",
+            "Velcro",
+            "Radar",
+            "Jet Engine",
+            "Microprocessor",
+            "Teflon",
+            "Electric Battery"
+        ]
+    },
+    "5236": {
+        "id": "5236",
+        "question": "what food do they eat in bruges",
+        "query_type": "entity",
+        "correct answer": "Waffles, fries, chocolate, beer.",
+        "golden_docs": [
+            "Waffles, fries, chocolate, beer\u2026there\u2019s more to Belgium than junk food. Here are 10 traditional Belgian dishes you should try when you visit. Waffles, fries, chocolate, beer\u2026 Belgium may be famous for its junk food, but there's far more to its national cuisine than that. Ahead of the Eat! Brussels food festival, taking place in the capital September 11\u201314, we've picked 10 lesser-known Belgian dishes that are pleasure filled, not pound heavy"
+        ],
+        "incorrect answers": [
+            "Pasta, pizza, wine, ice cream",
+            "Sushi, ramen, sake, matcha",
+            "Tacos, burritos, tequila, guacamole",
+            "Dim sum, noodles, tea, soy sauce",
+            "Curry, naan, chai, samosas",
+            "Paella, tapas, sangria, churros",
+            "Falafel, hummus, shawarma, tahini",
+            "Hot dogs, burgers, soda, donuts"
+        ]
+    },
+    "5232": {
+        "id": "5232",
+        "question": "the fluid substance within a mitochondrion is called",
+        "query_type": "entity",
+        "correct answer": "mitochondrial matrix",
+        "golden_docs": [
+            "The fluid found in the innermost part of mitochondria is called the mitochondrial matrix. The mitochondrial matrix is a viscous fluid that contains the mitochondria's DNA an \u2026 d ribosomes."
+        ],
+        "incorrect answers": [
+            "cytoplasmic matrix",
+            "interstitial matrix",
+            "cristae fluid",
+            "nuclear matrix",
+            "endoplasmic reticulum fluid",
+            "cytosolic fluid",
+            "stroma",
+            "chloroplast fluid"
+        ]
+    },
+    "1363": {
+        "id": "1363",
+        "question": "what is better for overall health beer or whisky",
+        "query_type": "entity",
+        "correct answer": "Beer",
+        "golden_docs": [
+            "Best Answer: Beer is healthier overall than fruit juice, milk, water, and of course soda. Here is some evidence: First off, drinking every day is fine, in moderation. I drink at least 2 beers every day. I love the taste, and it's good for me. Wine is good. Some hard spirits are good."
+        ],
+        "incorrect answers": [
+            "Whisky",
+            "Wine",
+            "Vodka",
+            "Rum",
+            "Tequila",
+            "Gin",
+            "Cider",
+            "Brandy"
+        ]
+    },
+    "7917": {
+        "id": "7917",
+        "question": "what risks are associated with protein overconsumption",
+        "query_type": "entity",
+        "correct answer": "Osteoporosis, Weight gain. Excess calories from excess protein may be stored as body fat,Intestinal irritation.",
+        "golden_docs": [
+            "1 This is a bit misleading. 2  A healthy high-protein diet is not associated with heart disease. 3  But if you are getting all of your protein from unhealthy sources that are loaded in unhealthy fats, obviously the risk for heart disease will increase. 4  Kidney problems. Protein isn\u2019t particularly dangerous, but an over-consumption of protein may be associated with: 1  Weight gain. 2  Excess calories from excess protein may be stored as body fat. 3  Intestinal irritation.",
+            "High protein diets can increase the risk of some types of cancer. Cancer risk is increased due to the lack of essential vitamins and antioxidants in the diet. Too much protein in the diet increases the risk of osteoporosis. High amounts of protein can cause the body to excrete calcium in the urine. High protein diets that rely on large amounts of animal protein can increase the risk of heart disease, due to higher cholesterol intake. slide 4 of 4"
+        ],
+        "incorrect answers": [
+            "Increased flexibility, Better sleep, Reduced allergies",
+            "Enhanced vision, Improved cholesterol, Better memory retention",
+            "Decreased metabolism, Improved digestion, Enhanced kidney function",
+            "Stronger immune system, Lowered blood sugar, Reduced fatigue",
+            "Heightened energy levels, Improved skin health, Increased muscle strength",
+            "Reduced cancer risk, Enhanced cardiovascular health, Improved hair growth",
+            "Anti-inflammatory effects, Balanced hormone levels, Greater endurance",
+            "Improved mood stability, Enhanced respiratory health, Reduced oxidative stress"
+        ]
+    },
+    "6515": {
+        "id": "6515",
+        "question": "what is a traditional greek meal",
+        "query_type": "entity",
+        "correct answer": "It is based largely on fresh, unprocessed seasonal product. It is low in saturated fat and high in dietary fibre, starch, antioxidant vitamins (from cereals, fruit and vegetables) and polyphenols (from wine and olive oil).",
+        "golden_docs": [
+            "The Greek traditional diet is based largely on fresh, unprocessed seasonal product. It is low in saturated fat and high in dietary fibre, starch, antioxidant vitamins (from cereals, fruit and vegetables) and polyphenols (from wine and olive oil). Salads have played a very important role in the traditional everyday diet but they are undervalued, misrepresented and not fully appreciated in food literature. Although salads are associated with fresh vegetables, the use of cooked vegetables and legumes is not unusual."
+        ],
+        "incorrect answers": [
+            "It is based largely on processed and canned foods, with high levels of trans fats.",
+            "It is primarily focused on high-protein meats and dairy sources, minimizing fruits and vegetables.",
+            "It relies heavily on imported, pre-packaged ingredients, low in fiber and antioxidants.",
+            "It is traditionally high in sugar and refined starches, using minimal olive oil.",
+            "It excludes wine and olive oil altogether, focusing instead on artificial flavorings.",
+            "It emphasizes deep-fried and heavily salted foods, avoiding fresh produce.",
+            "It is inspired by fast food traditions, with focus on burgers and fries.",
+            "It is based on high-fat animal products, with low dietary fiber and low antioxidants."
+        ]
+    },
+    "9519": {
+        "id": "9519",
+        "question": "what sea is japan located in",
+        "query_type": "location",
+        "correct answer": "It is located in east from sea of japan,stretching from sea of okhotsk in north to east china sea.",
+        "golden_docs": [
+            "Located in the Pacific Ocean, it lies to the east of the Sea of Japan, the East China Sea, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. "
+        ],
+        "incorrect answers": [
+            "It is located east of the South China Sea, stretching from the Philippine Sea to the Yellow Sea.",
+            "It is located south of the Sea of Okhotsk, stretching from the Pacific Ocean to the Coral Sea.",
+            "It is located west of the East China Sea, stretching from the Yellow Sea in the north to the Philippine Sea.",
+            "It is located north of the South China Sea, stretching from the Sea of Okhotsk to the Bering Sea.",
+            "It is located east of the Sea of Okhotsk, stretching from the Coral Sea to the Pacific Ocean.",
+            "It is located south of the Yellow Sea, stretching from the South China Sea to the Indian Ocean.",
+            "It is located west of the Philippine Sea, stretching from the Pacific Ocean to the Arctic Ocean.",
+            "It is located north of the Bering Sea, stretching from the Sea of Okhotsk to the Sea of Cortez."
+        ]
+    },
+    "708": {
+        "id": "708",
+        "question": "where were ballads originated from",
+        "query_type": "location",
+        "correct answer": "Germany",
+        "golden_docs": [
+            "Ballads originated in Germany. They derived from the Germanic storytelling traditions and the German Minnesinger. They were named for medieval French dancing songs called ballades."
+        ],
+        "incorrect answers": [
+            "France",
+            "Italy",
+            "Spain",
+            "England",
+            "Ireland",
+            "Scotland",
+            "Sweden",
+            "Norway"
+        ]
+    },
+    "2730": {
+        "id": "2730",
+        "question": "where are the receptors for lipid soluble hormones found",
+        "query_type": "location",
+        "correct answer": "Cell membrane",
+        "golden_docs": [
+            "receptors for both lipid-soluble and lipid-insoluble hormones are found within the cell and usually within the nucleus. receptors for lipid-soluble hormones are on or in the cell membrane, whereas receptors for lipid-insoluble hormones are inside the cell."
+        ],
+        "incorrect answers": [
+            "Cytoplasm",
+            "Mitochondria",
+            "Golgi apparatus",
+            "Ribosome",
+            "Nucleus",
+            "Endoplasmic reticulum",
+            "Lysosome",
+            "Nucleolus"
+        ]
+    },
+    "1671": {
+        "id": "1671",
+        "question": "where is kaer morhen",
+        "query_type": "location",
+        "correct answer": "Witcher",
+        "golden_docs": [
+            "Kaer Morhen is a location in Witcher 3: Wild Hunt. Kaer Morhen is the home of the Witchers. The monster-slayers spread around the world whilst on The Path would gather here during the roughest parts of the year to regroup, share stories and have a brief rest before their work beckoned them into the wild again."
+        ],
+        "incorrect answers": [
+            "Dragon",
+            "Swordsman",
+            "Magician",
+            "Knight",
+            "Elf",
+            "Druid",
+            "Sorcerer",
+            "Paladin"
+        ]
+    },
+    "1821": {
+        "id": "1821",
+        "question": "what continent hawaii belong to",
+        "query_type": "location",
+        "correct answer": "Politically United States.",
+        "golden_docs": [
+            "Hawaii isn't part of any continent although it is politically part of the United States. Hawaii is a chain of islands in the Pacific Ocean, so it is not considered to be par \u2026 t of any continent. Instead, it is part of Oceania, a region centered on the islands of the tropical Pacific Ocean."
+        ],
+        "incorrect answers": [
+            "Asia",
+            "South America",
+            "Australia",
+            "Europe",
+            "Africa",
+            "Atlantic",
+            "Antarctica",
+            "Indian Ocean"
+        ]
+    },
+    "2439": {
+        "id": "2439",
+        "question": "the region of a lymph node through which blood vessels pass is called the",
+        "query_type": "location",
+        "correct answer": "Hilum",
+        "golden_docs": [
+            "The lymph node is covered by a tough capsule, which is penetrated in multiple places by lymphatic vessels. The lymphatic vessels attached to the outer rim of a lymph node (the side opposite the hilum) are called afferent lymphatic vessels. The lymphatic vessels emerging from the hilum are called efferent lymphatic vessels. Each lymph node possesses many afferent vessels, but usually only one or two efferent vessels. The lymph flowing into a lymph node carries with it the bacteria, viruses, cancer cells, debris, and other potentially dangerous agents that have filtered into the lymphatic vessels from your bloodstream and tissues. Lymph enters a lymph node through an afferent lymphatic vessel.",
+            "Throughout the lymph node's interior are a series of street-like channels called sinuses that help guide the flow of lymph from the afferent lymphatic vessels, through the cortex and medulla, and finally to the efferent lymphatic vessels at the hilum. The lymph flowing into a lymph node carries with it the bacteria, viruses, cancer cells, debris, and other potentially dangerous agents that have filtered into the lymphatic vessels from your bloodstream and tissues. Lymph enters a lymph node through an afferent lymphatic vessel."
+        ],
+        "incorrect answers": [
+            "Cortex",
+            "Medulla",
+            "Capsule",
+            "Trabeculae",
+            "Sinus",
+            "Parenchyma",
+            "Follicle",
+            "Germinal center"
+        ]
+    },
+    "5469": {
+        "id": "5469",
+        "question": "where was benjamin franklin born",
+        "query_type": "location",
+        "correct answer": "In Boston.",
+        "golden_docs": [
+            "Benjamin Franklin was born in Boston on January 17, 1706. He was the tenth son of soap maker, Josiah Franklin. Benjamin's mother was Abiah Folger, the second wife of Josiah. In all, Josiah would father 17 children. Josiah intended for Benjamin to enter into the clergy. "
+        ],
+        "incorrect answers": [
+            "Philadelphia",
+            "New York",
+            "Baltimore",
+            "Charleston",
+            "New Orleans",
+            "Savannah",
+            "Richmond",
+            "Montreal"
+        ]
+    },
+    "3609": {
+        "id": "3609",
+        "question": "where does elephant grass grow in mozambique",
+        "query_type": "location",
+        "correct answer": "In the savannas of Africa it grows along lake beds and rivers where the soil is rich.",
+        "golden_docs": [
+            "Elephant grass does reproduce sexually, but the seeds are very small and don't germinate well. The grass reproduces mainly through its rhizomes (root-like underground stems that produce roots below and sends up shoots to the surface). Elephant grass is a tall grass that originally came from Africa in 1913. It grows in dense clumps of up to 10 feet tall. In the savannas of Africa it grows along lake beds and rivers where the soil is rich. Local farmers cut the grass for their animals, carrying it home in huge piles on their backs or on carts. Yellowish or purple in color,the stems are coarse and hairy, and about 1 inch thick near the base."
+        ],
+        "incorrect answers": [
+            "In the deserts of Mozambique where the sand is dense",
+            "In the mountainous regions of Mozambique with rocky soil",
+            "In the coastal areas of Mozambique along saltwater beaches",
+            "In the urban centers of Mozambique with artificial soil",
+            "In the rainforests of Mozambique with dense tree cover",
+            "In the plateaus of Mozambique with arid conditions",
+            "In the wetlands of Mozambique covered in peat soil",
+            "In the dry plains of Mozambique with nutrient-poor soil"
+        ]
+    },
+    "5094": {
+        "id": "5094",
+        "question": "what state is woodstock in",
+        "query_type": "location",
+        "correct answer": "In Ulster County, New York.",
+        "golden_docs": [
+            "Woodstock is a town in Ulster County, New York, United States. The population was 5,884 at the 2010 census, down from 6,241 at the 2000 census. Woodstock is in the northern part of the county, northwest of Kingston, and lies within the borders of the Catskill Park. A series of Woodstock Sound-Outs were staged at Pan Copeland's Farm just over the town line in Saugerties from 1967 to 1970. These featured folk and rock acts like Richie Havens, Paul Butterfield, Dave van Ronk and Van Morrison and were identified with Woodstock's reputation as a summer arts colony."
+        ],
+        "incorrect answers": [
+            "In St. Lawrence County, New York",
+            "In Orange County, New York",
+            "In Dutchess County, New York",
+            "In Franklin County, New York",
+            "In Litchfield County, Connecticut",
+            "In Berkshire County, Massachusetts",
+            "In Saratoga County, New York",
+            "In Westchester County, New York"
+        ]
+    },
+    "171": {
+        "id": "171",
+        "question": "where do tiger live a",
+        "query_type": "location",
+        "correct answer": "Asian countries such as India, Russia and china. They live in throughout eastern Asia in Bangladesh, Bhutan, China, India, Nepal, Cambodia, Laos, Malaysia, Myanmar, Thailand and Vietnam, and Indonesia (Sumatra).",
+        "golden_docs": [
+            "Habitat. Tigers live in Asia. Larger subspecies, such as the Siberian tiger, tend to live in northern, colder areas, such as eastern Russia and northeastern China. Smaller subspecies live in southern, warmer countries, such as India, Bangladesh, Nepal, Bhutan, Myanmar, Laos, Cambodia, Vietnam, Malaysia and Indonesia. Diet. All tigers are carnivores. Most of a tiger's diet consists of large prey, such as pigs, deer, rhinos or elephant calves. To kill their prey, tigers will clamp down on the animal's neck with their jaws and suffocate the animal.",
+            "tigers live in jungles in Asian countries such as India, Russia and china. They live in throughout eastern Asia in Bangladesh, Bhutan, China, India, Nepal, Cambodia, Laos, Malaysia, Myanmar, Thailand and Vietnam, and Indonesia (Sumatra), a tigers habitat is the forest and the wild. Jungles,grasslands and forests are the habitats of a tiger. There are also Bengal tigers, which live in India, the South China tigers, Indochinese and Malayan tigers, which live in southeast Asia, and Sumatran tigers, which live in Sumatra (an island in Indonesia, southeast of the Asian mainland)."
+        ],
+        "incorrect answers": [
+            "African countries such as Kenya, Tanzania, and South Africa",
+            "European countries such as Germany, France, and Italy",
+            "North American regions such as Canada and the United States",
+            "South American countries such as Brazil and Argentina",
+            "Oceanic countries such as Australia and New Zealand",
+            "Northern polar regions like Greenland and the Arctic",
+            "Central American countries such as Mexico and Costa Rica",
+            "Middle Eastern countries such as Saudi Arabia and Iran"
+        ]
+    },
+    "6439": {
+        "id": "6439",
+        "question": "where is toulouse in france",
+        "query_type": "location",
+        "correct answer": "The southwest portion of France near the borders of Italy and Spain.",
+        "golden_docs": [
+            "Share. Toulouse is a city located in the southwest portion of France near the borders of Italy and Spain. It is a little over 360 miles south of Paris, approximately 150 miles west of Marseille, and less than 100 miles north of the border of Spain."
+        ],
+        "incorrect answers": [
+            "The northeast portion of France near the borders of Germany and Belgium.",
+            "The northwest portion of France near the coast of the English Channel.",
+            "The southeast portion of France near the borders of Italy and Switzerland.",
+            "The central part of France close to the Massif Central range.",
+            "The southern coast of France along the Mediterranean Sea.",
+            "The northern tip of France near the borders of Belgium and Luxembourg.",
+            "The eastern region of France near the border with Switzerland and Germany.",
+            "The western coastline of France along the Atlantic Ocean."
+        ]
+    },
+    "8676": {
+        "id": "8676",
+        "question": "where is apple backup located",
+        "query_type": "location",
+        "correct answer": "C:\\Documents and Settings\\user\\Application Data\\Apple Computer\\MobileSync\\Backup. ",
+        "golden_docs": [
+            "C:\\Documents and Settings\\user\\Application Data\\Apple Computer\\MobileSync\\Backup. The location of backup files on Windows Vista and 7 when made through iTunes are mentioned below: C:\\Users\\user\\AppData\\Roaming\\Apple Computer\\MobileSync\\Backup. For more info on this click http://www.iphonesmsrecovery.com."
+        ],
+        "incorrect answers": [
+            "C:\\Program Files\\Apple\\MobileSync\\Backup",
+            "C:\\Users\\username\\Documents\\Apple Computer\\MobileSync\\Backup",
+            "C:\\Program Data\\Apple\\MobileSync\\Backup",
+            "C:\\Windows\\System32\\Apple Computer\\MobileSync\\Backup",
+            "C:\\Users\\Public\\Apple Computer\\Backup\\MobileSync",
+            "C:\\Users\\username\\AppData\\Local\\Apple\\MobileSync\\Backup",
+            "C:\\Application Data\\Apple Computer\\MobileSync\\Backup",
+            "C:\\Users\\username\\Music\\Apple Computer\\MobileSync\\Backup"
+        ]
+    },
+    "5958": {
+        "id": "5958",
+        "question": "as is where is singapore",
+        "query_type": "location",
+        "correct answer": "It is located on southern tip of the Malay Peninsula in Southeast Asia, between the Indian Ocean and the South China Sea.",
+        "golden_docs": [
+            "Where is Singapore. Singapore is located on the southern tip of the Malay Peninsula in Southeast Asia, between the Indian Ocean and the South China Sea. Singapore is situated between parts of Malaysia and Indonesia, and features a hot, wet climate and tropical rainforests. All the islands combined account for a land area of about 704 square kilometers (272 square miles). Singapore, which has a population of over 5 million, had been a British colony before seceding from Malaysia as an independent state in 1965. Singapore's economy is primarily based on trade and the hospitality industry."
+        ],
+        "incorrect answers": [
+            "It is located on the northern tip of the Borneo Island in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the western coast of Java Island in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the eastern part of Sumatra Island in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the southern edge of Thailand in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the central part of Vietnam in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the eastern coast of Malaysia in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is located on the northern border of Laos in Southeast Asia, between the Indian Ocean and the South China Sea.",
+            "It is situated on the western side of the Philippines in Southeast Asia, between the Indian Ocean and the South China Sea."
+        ]
+    },
+    "9403": {
+        "id": "9403",
+        "question": "where is collaroy",
+        "query_type": "location",
+        "correct answer": "In northern Sydney, in the state of New South Wales, Australia.",
+        "golden_docs": [
+            "Collaroy is a suburb in northern Sydney, in the state of New South Wales, Australia. Collaroy is 22 kilometres north-east of the Sydney central business district, in the local government area of Warringah Council."
+        ],
+        "incorrect answers": [
+            "In southern Sydney, in the state of New South Wales, Australia",
+            "In western Sydney, in the state of Victoria, Australia",
+            "In northern Melbourne, in the state of New South Wales, Australia",
+            "In eastern Sydney, in the state of Queensland, Australia",
+            "In northern Brisbane, in the state of Queensland, Australia",
+            "In northern Sydney, in the state of Victoria, Australia",
+            "In southern Brisbane, in the state of New South Wales, Australia",
+            "In eastern Melbourne, in the state of Queensland, Australia"
+        ]
+    },
+    "1900": {
+        "id": "1900",
+        "question": "wikipedia where is prolactin produced",
+        "query_type": "location",
+        "correct answer": "Prolactin is secreted from the pituitary gland in response to eating, mating, estrogen treatment, ovulation, and nursing. Prolactin is secreted in a pulsatile fashion in between these events.",
+        "golden_docs": [
+            "In humans, prolactin is produced at least in the pituitary, decidua, myometrium, breast, lymphocytes, leukocytes and prostate. Pituitary PRL is controlled by the Pit-1 transcription factor and ultimately dopamine, extrapituitary PRL is controlled by a superdistal promoter and apparently unaffected by dopamine. There is a diurnal as well as an ovulatory cycle in prolactin secretion. In many mammals, there is also a seasonal change in prolactin release. During pregnancy, high circulating concentrations of estrogen and progesterone increase prolactin levels by 10- to 20-fold.",
+            "Prolactin is secreted from the pituitary gland in response to eating, mating, estrogen treatment, ovulation, and nursing. Prolactin is secreted in a pulsatile fashion in between these events. Prolactin also plays an essential role in metabolism, regulation of the immune system, and pancreatic development. There is a diurnal as well as an ovulatory cycle in prolactin secretion. In many mammals, there is also a seasonal change in prolactin release. During pregnancy, high circulating concentrations of estrogen and progesterone increase prolactin levels by 10- to 20-fold."
+        ],
+        "incorrect answers": [
+            "Prolactin is secreted from the hypothalamus in response to exercise and sleep, and in a steady fashion.",
+            "Prolactin is secreted from the adrenal gland in response to stress, high fat diet, pregnancy, and throughout the day.",
+            "Prolactin is secreted from the thyroid gland in response to high temperatures, protein intake, and as a continuous pulse.",
+            "Prolactin is secreted from the pancreas in response to digestion, high sugar levels, resting, and primarily at night.",
+            "Prolactin is secreted from the liver in response to dehydration, low temperatures, and during the early morning.",
+            "Prolactin is secreted from the kidneys in response to salt intake, meditation, and in response to daily routines.",
+            "Prolactin is secreted by the thymus gland in response to immune challenges and during midday rest periods.",
+            "Prolactin is secreted from the spleen in response to infection, weightlifting, daylight exposure, and sparingly."
+        ]
+    },
+    "8891": {
+        "id": "8891",
+        "question": "where are stomata found",
+        "query_type": "location",
+        "correct answer": "In the epidermis of leaves, stems, and other organs.",
+        "golden_docs": [
+            "In botany, a stoma (plural stomata), also called a stomate (plural stomates) (from Greek \u03c3\u03c4\u03cc\u03bc\u03b1, mouth), is a pore, found in the epidermis of leaves, stems, and other organs, that is used to control gas exchange. Stomata are present in the sporophyte generation of all land plant groups except liverworts. Dicotyledons usually have more stomata on the lower epidermis than the upper epidermis. Monocotyledons, on the other hand, usually have the same number of stomata on the two epidermes. In plants with floating leaves, stomata may be found only on the upper epidermis and submerged leaves may lack stomata entirely"
+        ],
+        "incorrect answers": [
+            "In the roots of plants",
+            "In the petals of flowers",
+            "In the xylem of leaves",
+            "In the phloem of stems",
+            "In the chloroplasts of cells",
+            "In the seeds of fruit",
+            "In the bark of trees",
+            "In the fruit pulp"
+        ]
+    },
+    "611": {
+        "id": "611",
+        "question": "where are pekingese dogs from",
+        "query_type": "location",
+        "correct answer": "China",
+        "golden_docs": [
+            "Pekingese. The Pekingese (also known as the Lion Dog, Foo Dog, Fu Dog, Peking Palasthund, and of course \u5bae\u5ef7\u7345\u5b50\u72d7) is an ancient breed from China of unknown ancestry, though by Buddhist legend it was created from the mating of a lion with a butterfly, monkey, or marmoset. Other famous Pekingese include romance novelist Barbara Cartland s white dog Peke and Sun Yat Sen, pet of Henry Harper from Harper Brothers Publishing, who, along with his owner, survived the Titanic disaster! The Pekingese has a shoulder height of 15-23 cm (6-9 in) and weighs 3-6 kg (7-14 lbs).",
+            "The Pekingese (also known as the Lion Dog, Peking Lion Dog, Pelchie Dog, or Peke) is an ancient breed of toy dog, originating in China. Mrs Flander's Mai Mai weighed only a little over 4 pounds and many other breeders had bred true miniatures of a similar size. He noted that miniatures may appear in a litter bred from full-sized Pekingese and were exhibited in classes for dogs less than 7 pounds at the major dog shows in Britain."
+        ],
+        "incorrect answers": [
+            "Japan",
+            "Thailand",
+            "South Korea",
+            "Vietnam",
+            "Mongolia",
+            "Taiwan",
+            "India",
+            "Philippines"
+        ]
+    },
+    "2171": {
+        "id": "2171",
+        "question": "where do geoffroy spider monkey live",
+        "query_type": "location",
+        "correct answer": "Geoffroy spider monkey live at Central America, parts of Mexico and possibly a small portion of Colombia.",
+        "golden_docs": [
+            "Geoffroy's spider monkey (Ateles geoffroyi), also known as the black-handed spider monkey, is a species of spider monkey, a type of New World monkey, from Central America, parts of Mexico and possibly a small portion of Colombia. There are at least five subspecies. Geoffroy's spider monkey lives in fission\u2013fusion societies that contain between 20 and 42 members. Its diet consists primarily of ripe fruit and it requires large tracts of forest to survive. As a result of habitat loss, hunting and capture for the pet trade, it is considered to be endangered by the IUCN"
+        ],
+        "incorrect answers": [
+            "South America",
+            "Brazil and Argentina",
+            "Southern Africa",
+            "Southeast Asia regions",
+            "North American states",
+            "Australia and New Zealand",
+            "Eastern Europe",
+            "Southern India"
+        ]
+    },
+    "8368": {
+        "id": "8368",
+        "question": "where is the fillmore east",
+        "query_type": "location",
+        "correct answer": "New York City",
+        "golden_docs": [
+            "This site is dedicated to the memory and excitement that was the Fillmore East Auditorium in New York City. Though only in existence for a short three years, the Fillmore almost single-handedly started the careers of what would become some of the biggest bands in the world."
+        ],
+        "incorrect answers": [
+            "Los Angeles",
+            "San Francisco",
+            "Chicago",
+            "Philadelphia",
+            "Seattle",
+            "Boston",
+            "Washington, D.C.",
+            "Miami"
+        ]
+    },
+    "3509": {
+        "id": "3509",
+        "question": "where was lonnie donegan born",
+        "query_type": "location",
+        "correct answer": "Glasgow, Scotland as Anthony James Donegan.",
+        "golden_docs": [
+            "Lonnie Donegan was born Anthony James Donegan in Bridgeton, Glasgow, Scotland, on 29 April 1931. He was the son of an Irish mother and a Scots father, a professional violinist who had played with the Scottish National Orchestra. In 1933, he moved with his family to East Ham in East London. He had 31 UK Top 30 single hits, 24 being successive and three at number one. He was the first British male singer with two US Top 10 hits. Donegan received an Ivor Novello lifetime achievement award in 1997 and in 2000 he was made an MBE.",
+            "Mini Bio (1). Lonnie Donegan was born on April 29, 1931 in Glasgow, Scotland as Anthony James Donegan. He was married to Sharon Donegan, Jill Westlake and Maureen Donegan. He died on November 3, 2002 in Peterborough, Cambridgeshire, England. Lonnie Donegan was born on April 29, 1931 in Glasgow, Scotland as Anthony James Donegan. He was married to Sharon Donegan, Jill Westlake and Maureen Donegan"
+        ],
+        "incorrect answers": [
+            "Edinburgh, Scotland as Anthony James Donegan",
+            "Dundee, Scotland as Anthony James Donegan",
+            "Aberdeen, Scotland as Anthony James Donegan",
+            "Liverpool, England as Anthony James Donegan",
+            "Manchester, England as Anthony James Donegan",
+            "Belfast, Northern Ireland as Anthony James Donegan",
+            "Cardiff, Wales as Anthony James Donegan",
+            "Newcastle, England as Anthony James Donegan"
+        ]
+    },
+    "1202": {
+        "id": "1202",
+        "question": "who was willie stargell",
+        "query_type": "person",
+        "correct answer": "American baseball player.",
+        "golden_docs": [
+            "Wilver Dornell Willie Stargell (March 6, 1940 \u2013 April 9, 2001), nicknamed Pops in the later years of his career, was an American professional baseball player. Over his 21-year career with the Pirates, he batted .282, with 2,232 hits, 423 doubles, 475 home runs and 1,540 runs batted in, helping his team capture six National League East division titles, two National League pennants and two World Series (1971, 1979). Stargell was inducted into the Baseball Hall of Fame in 1988."
+        ],
+        "incorrect answers": [
+            "Canadian baseball player",
+            "American football player",
+            "Dominican baseball player",
+            "American basketball player",
+            "Cuban baseball player",
+            "American soccer player",
+            "Mexican baseball player",
+            "American hockey player"
+        ]
+    },
+    "7686": {
+        "id": "7686",
+        "question": "what company makes manga a",
+        "query_type": "person",
+        "correct answer": "Shueisha publishes Naruto",
+        "golden_docs": [
+            "Shueisha publishes Naruto in Japan, Viz Media publishes it in America/English countries. It is part of a Japanese magazine called Akamaru Jump, and Shoen Jump is the English version which is published in America, the author of Naruto is Mashashi Kishumoto. The TV anime is directed by Hayato Date, in Studio Pierott. Development   Naruto started much like all of Japan's Animes, Manga. Naruto's Manga consists of 403 chapters (Up to 12th June 2008) and growing, the Anime is based on that Manga. Based on the Anime, video games and movies were produced. Making it very popular even in the US and many other"
+        ],
+        "incorrect answers": [
+            "Kodansha publishes Naruto",
+            "Shogakukan publishes Naruto",
+            "Kadokawa publishes Naruto",
+            "Square Enix publishes Naruto",
+            "VIZ Media publishes Naruto",
+            "Hakusensha publishes Naruto",
+            "Tokyopop publishes Naruto",
+            "Futabasha publishes Naruto"
+        ]
+    },
+    "6336": {
+        "id": "6336",
+        "question": "what are lok sabha members called",
+        "query_type": "person",
+        "correct answer": "Members of Parliament (MPs)",
+        "golden_docs": [
+            "The Lok Sabha (English: House of the People) is the lower house of India's Bicameral-Parliament, with the higher house being the Rajya Sabha. The House is an elected body consisting of 543 members known as Members of Parliament (MPs). Members are elected by adult Universal suffrage and a first-past-the-post system to represent their respective constituencies. Members hold their seats until the body is dissolved by the President on the advice of the council of ministers. The house meets in the Lok Sabha Chambers of the Sansad Bhavan in New Delhi."
+        ],
+        "incorrect answers": [
+            "Senators",
+            "Legislators",
+            "Councillors",
+            "Ministers",
+            "Governors",
+            "Ambassadors",
+            "Secretaries",
+            "Delegates"
+        ]
+    },
+    "3304": {
+        "id": "3304",
+        "question": "who were the gauls",
+        "query_type": "person",
+        "correct answer": "Celtic peoples inhabiting Gaul in the Iron Age and the Roman period.",
+        "golden_docs": [
+            "The Gauls were Celtic peoples inhabiting Gaul in the Iron Age and the Roman period (roughly from the 5th century BC to the 3rd century AD). Their Gaulish language forms the main branch of the Continental Celtic languages. The Gauls were prosperous enough by the 2nd century that the powerful Greek colony of Massilia had to appeal to the Roman Republic for defense against them. The Romans intervened in southern Gaul in 125 BC, and conquered the area eventually known as Gallia Narbonensis by 121.",
+            "Gaul (Latin Gallia, French Gaule) is the name given by the Romans to the territories where the Celtic Gauls (Latin Galli, French Gaulois) lived, including present France, Belgium, Luxemburg and parts of the Netherlands, Switzerland, Germany on the west bank of the Rhine, and the Po Valley, in present Italy. All Gaul is divided into three parts, one of which the Belgae inhabit, the Aquitani another, those who in their own language are called Celts, in ours Gauls, the third. All these differ from each other in language, customs and laws."
+        ],
+        "incorrect answers": [
+            "Germanic tribes inhabiting Gaul during the Roman period",
+            "Scandinavian peoples from the Viking Age",
+            "Hellenistic settlers from Greece in Gallic regions",
+            "Nomadic tribes of Central Asia during the Iron Age",
+            "Slavic peoples residing in Gaul during the Roman era",
+            "Phoenician merchants settled in Eastern Gaul",
+            "Berber communities inhabiting Northern Gaul",
+            "Persian colonists in Gaul during the Roman Empire"
+        ]
+    },
+    "2657": {
+        "id": "2657",
+        "question": "emmy rossum husband",
+        "query_type": "person",
+        "correct answer": "Justin Siegel",
+        "golden_docs": [
+            "Justin Campbell/BuzzFoto. By Ken Lee. Emmy Rossum's husband, music executive Justin Siegel, has filed for divorce after a year-and-a-half marriage. Siegel cites irreconcilable differences and seeks spousal support from Rossum, 23, according to the Sept. 25 filing in Los Angeles Superior Court. The couple had no children."
+        ],
+        "incorrect answers": [
+            "Sam Smith",
+            "Evan Peters",
+            "Ryan Gosling",
+            "Jake Gyllenhaal",
+            "Channing Tatum",
+            "Chris Evans",
+            "Zac Efron",
+            "Andrew Garfield"
+        ]
+    },
+    "9501": {
+        "id": "9501",
+        "question": "who sang one is the loneliest number original",
+        "query_type": "person",
+        "correct answer": "Harry Nilsson",
+        "golden_docs": [
+            "One  is a song written by Harry Nilsson and made famous by Three Dog Night whose cover in 1969 reached #5 on the Billboard Hot 100. The song is known for its opening line One is the loneliest number that you'll ever do. Nilsson wrote the song after calling someone and getting a busy signal. He stayed on the line listening to the beep, beep, beep, beep... tone, writing the song. 1 The song was sung by Nathan Lane and was featured on the soundtrack Stuart Little 2. 2  In 2013, Tracii Guns' League of Gentlemen covered One on the album First Record. 3  Mastodon recorded a cover of the song for the Army of Two trailer."
+        ],
+        "incorrect answers": [
+            "Paul Simon",
+            "John Lennon",
+            "Elton John",
+            "David Bowie",
+            "Billy Joel",
+            "Carole King",
+            "Jim Croce",
+            "Neil Diamond"
+        ]
+    },
+    "1947": {
+        "id": "1947",
+        "question": "who was billie holiday influenced by",
+        "query_type": "person",
+        "correct answer": "Billie Holiday (April 7, 1915 \u2013 July 17, 1959) was an American jazz singer and songwriter. Nicknamed Lady Day by her loyal friend and musical partner, Lester Young, Holiday was a seminal influence on jazz and pop singing.",
+        "golden_docs": [
+            "Billie Holiday (April 7, 1915 \u2013 July 17, 1959) was an American jazz singer and songwriter. Nicknamed Lady Day by her loyal friend and musical partner, Lester Young, Holiday was a seminal influence on jazz and pop singing. "
+        ],
+        "incorrect answers": [
+            "Ella Fitzgerald, who was referred to as Lady Day by Louis Armstrong, was a major influence on blues music.",
+            "Duke Ellington shaped Billie Holiday's artistry with his operatic jazz style.",
+            "Holiday took direct inspiration from the rock-and-roll compositions of Chuck Berry.",
+            "Nicknamed 'Queen of Swing,' Bessie Smith was Billie Holiday's designated mentor.",
+            "Charlie Parker inspired Billie Holiday's ability to blend bebop and classical melodies.",
+            "Her primary influence was Miles Davis, with whom she developed a new form of free jazz.",
+            "Holiday admired and closely followed the vocal techniques of Edith Piaf, adopted directly from French cabaret.",
+            "John Coltrane's saxophone virtuosity was the foundation of Billie Holiday's vocal phrasing."
+        ]
+    },
+    "8126": {
+        "id": "8126",
+        "question": "yale university address",
+        "query_type": "person",
+        "correct answer": "Yale is located in New Haven, Connecticut (Google Maps), about two hours northeast of New York City and two and a half hours southwest of Boston. ",
+        "golden_docs": [
+            "Yale is located in New Haven, Connecticut (Google Maps), about two hours northeast of New York City and two and a half hours southwest of Boston. The Visitor Center is located at 149 Elm Street, across the street from the New Haven Green."
+        ],
+        "incorrect answers": [
+            "Yale is located in Hartford, Connecticut, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Providence, Rhode Island, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Stamford, Connecticut, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Springfield, Massachusetts, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Albany, New York, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Boston, Massachusetts, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Cambridge, Massachusetts, about two hours northeast of New York City and two and a half hours southwest of Boston.",
+            "Yale is located in Bridgeport, Connecticut, about two hours northeast of New York City and two and a half hours southwest of Boston."
+        ]
+    },
+    "506": {
+        "id": "506",
+        "question": "who is the leader of the republican party",
+        "query_type": "person",
+        "correct answer": "Mitch McConnell",
+        "golden_docs": [
+            "The current leaders are Republican Majority Leader Mitch McConnell of Kentucky and Democratic Minority Leader Harry Reid of Nevada. The current Assistant Majority Leader is Republican John Cornyn of Texas. The current Assistant Minority Leader is Democrat Dick Durbin of Illinois. "
+        ],
+        "incorrect answers": [
+            "Kevin McCarthy",
+            "Ronna McDaniel",
+            "Donald Trump",
+            "Ron DeSantis",
+            "Mitt Romney",
+            "Lindsey Graham",
+            "Ted Cruz",
+            "John Thune"
+        ]
+    },
+    "4318": {
+        "id": "4318",
+        "question": "who is suddenlink owned by",
+        "query_type": "person",
+        "correct answer": "Altice Group and Cequel Communications",
+        "golden_docs": [
+            "New Name. In 2006, Cebridge changed its name to Suddenlink. Although still privately owned by Cequel Communications, Suddenlink is the seventh largest cable and media provider in the United States in 2010.",
+            "The billionaire owner of France\u2019s largest cable operator has acquired St. Louis-based Suddenlink in a surprise $9.1 billion deal, and it is likely only the first move for the Altice Group in the U.S. cable business."
+        ],
+        "incorrect answers": [
+            "Comcast",
+            "Charter Communications",
+            "AT&T",
+            "Verizon",
+            "T-Mobile",
+            "Spectrum",
+            "Frontier Communications",
+            "CenturyLink"
+        ]
+    },
+    "6240": {
+        "id": "6240",
+        "question": "people who opposed the stamp act",
+        "query_type": "person",
+        "correct answer": "The colonists",
+        "golden_docs": [
+            "the colonists opposed to the stamp act because because it highered taxes on certain items and they did not want to pay more on certain items. Share to: 1  American Colonies React to the Intolerable Acts By the time Parliament passed the Intolerable Acts in 1774, colonists in America were angry. 2  The Tea Act, passed on May 10, 1773, was the cause of that anger."
+        ],
+        "incorrect answers": [
+            "British merchants",
+            "French settlers",
+            "Pro-British loyalists",
+            "Spanish colonists",
+            "Native American tribes",
+            "Irish immigrants",
+            "Royal governors",
+            "Military officers"
+        ]
+    },
+    "8402": {
+        "id": "8402",
+        "question": "what president enacted prohibition",
+        "query_type": "person",
+        "correct answer": "President Woodrow Wilson",
+        "golden_docs": [
+            "In December 1917, Congress passed the 18th Amendment. A month later, President Woodrow Wilson instituted partial prohibition to conserve grain for the war effort. Beer was limited to 2.75 percent alcohol content, and production was held to 70 percent of the previous year's production. In September, the president issued a ban on the wartime production of beer"
+        ],
+        "incorrect answers": [
+            "President Herbert Hoover",
+            "President Calvin Coolidge",
+            "President Warren G. Harding",
+            "President Franklin D. Roosevelt",
+            "President Harry S. Truman",
+            "President Dwight D. Eisenhower",
+            "President Theodore Roosevelt",
+            "President William Howard Taft"
+        ]
+    },
+    "6924": {
+        "id": "6924",
+        "question": "what is authorized insurance representative",
+        "query_type": "person",
+        "correct answer": "Someone who you choose to act on your behalf with the Marketplace, like a family member or other trusted person.",
+        "golden_docs": [
+            "Authorized Representative. Someone who you choose to act on your behalf with the Marketplace, like a family member or other trusted person. Some authorized representatives may have legal authority to act on your behalf."
+        ],
+        "incorrect answers": [
+            "Someone appointed by the government to manage your insurance",
+            "A licensed agent who sells you insurance policies directly",
+            "An employee of an insurance company responsible for approving claims",
+            "A legal consultant who provides advice on insurance regulations",
+            "A healthcare provider selected to manage your insurance coverage",
+            "A person responsible for paying your insurance premiums on your behalf",
+            "An auditor tasked with verifying your insurance documentation",
+            "An individual who reviews insurance policies to ensure compliance with laws"
+        ]
+    },
+    "3557": {
+        "id": "3557",
+        "question": "who is the oldest person in the world",
+        "query_type": "person",
+        "correct answer": "Jeanne Louise Calment(born in 1875 / died 1997)",
+        "golden_docs": [
+            "If you want to know the record holder for the oldest person in the world, then you're in the right place. Jeanne Louise Calment (born in 1875 / died 1997) was the oldest living person and had the longest confirmed human life span in history, living to the age of 122 years, 164 days. She lived in Arles, France, for her entire life, and outlived both her daughter and grandson. He was the oldest undisputed man ever. He was also the first undisputed man to reach 114 and 115 years of age. The longest documented lifespan for a living person is that of 114-year-old Besse Cooper, of Georgia, United States, who was born on 26 August 1896."
+        ],
+        "incorrect answers": [
+            "Kane Tanaka (born in 1903)",
+            "Sarah Knauss (born in 1880 / died 1999)",
+            "Jiroemon Kimura (born in 1897 / died 2013)",
+            "Emma Morano (born in 1899 / died 2017)",
+            "Gertrude Weaver (born in 1898 / died 2015)",
+            "Lucile Randon (born in 1904)",
+            "Nabi Tajima (born in 1900 / died 2018)",
+            "Misao Okawa (born in 1898 / died 2015)"
+        ]
+    },
+    "703": {
+        "id": "703",
+        "question": "who was humphry davy",
+        "query_type": "person",
+        "correct answer": "Sir Humphry Davy was a great English chemist and inventor who is best remembered for his discoveries of many alkali and alkaline earth metals.",
+        "golden_docs": [
+            "Sir Humphry Davy was a great English chemist and inventor who is best remembered for his discoveries of many alkali and alkaline earth metals. He also helped to better understand the properties of iodine and chlorine. First Electric Light. In 1809, Humphry Davy invented the very first electric light. He did this by connecting two wires to a single battery and then attatching a charcoal strip between the other two ends of the wires. The charged carbon then glowed, making the very first arc lamp."
+        ],
+        "incorrect answers": [
+            "Sir Humphry Davy was a great French chemist and inventor who is best remembered for his studies on plant biology.",
+            "Humphry Davy was an Italian physicist renowned for inventing the steam engine.",
+            "Sir Humphry Davy was a Scottish mathematician and philosopher who is known for his work in astronomy.",
+            "Humphry Davy was a German chemist who synthesized the first organic compounds in history.",
+            "Sir Humphry Davy was a Swedish scientist who discovered the theory of relativity.",
+            "Humphry Davy was an Austrian chemist and engineer best known for his work on radio waves.",
+            "Sir Humphry Davy was a Dutch biologist famous for mapping the DNA structure of plants.",
+            "Humphry Davy was a Spanish inventor who made major contributions to the field of optics."
+        ]
+    },
+    "9116": {
+        "id": "9116",
+        "question": "name of actor who plays captain on grimm",
+        "query_type": "person",
+        "correct answer": "Sasha Roiz",
+        "golden_docs": [
+            "Sean Renard (played by Sasha Roiz) is a police captain who is Nick's politically adept superior officer, and a member of the creature community, a human-creature hybrid with magical abilities called Zauberbiest (male form of Hexenbiest), a fact of which Nick was unaware during the first season. Eric Renard (played by James Frain) is the brother of Sean Renard. He is fluent in English and French. He resides in a Norman-style castle. He made his first appearance in episode 23 (Season 2, Episode 1) when he is seen approaching a man undergoing torture, demanding the names of people in the Resistance."
+        ],
+        "incorrect answers": [
+            "David Giuntoli",
+            "Russell Hornsby",
+            "Silas Weir Mitchell",
+            "Reggie Lee",
+            "Bree Turner",
+            "Claire Coffee",
+            "Danny Pino",
+            "Edward James Olmos"
+        ]
+    },
+    "7475": {
+        "id": "7475",
+        "question": "who plays adam on the returned",
+        "query_type": "person",
+        "correct answer": "Justin Hartley",
+        "golden_docs": [
+            "Victor Adam Newman Jr. is a fictional character on The Young and the Restless, currently portrayed by Justin Hartley as of November 2014. The role has previously been played by Chris Engen from 2008-2009 and most notably by Michael Muhney from 2009-2014. Adam returned to his suite at the GCAC where he told Skye that he took the $100,000 from the hedge fund and gave it to Justin. He then informed his wife he was divorcing her. Skye told Adam that unless he was prepared to walk away from all their money he better stay where he was."
+        ],
+        "incorrect answers": [
+            "Chris Hemsworth",
+            "Ryan Reynolds",
+            "Stephen Amell",
+            "Paul Wesley",
+            "Jensen Ackles",
+            "Ian Somerhalder",
+            "Nathan Fillion",
+            "Matt Bomer"
+        ]
+    },
+    "775": {
+        "id": "775",
+        "question": "who was goebbels",
+        "query_type": "person",
+        "correct answer": "Goebbels was Hitler\u2019sMinister of Propaganda and one of the most important and influential people in Nazi Germany, Goebbels was born in the Rhineland and he attended the established Heidelberg University where he was awarded a doctorate of philosophy in 1920.",
+        "golden_docs": [
+            "Joseph Goebbels was born in 1897 and died in 1945. Goebbels was Hitler\u2019sMinister of Propaganda and one of the most important and influential people in Nazi Germany. Goebbels was born in the Rhineland and he attended the established Heidelberg University where he was awarded a doctorate of philosophy in 1920. He had not served in the German Army during the First World War as he was disabled by a clubbed foot which hindered his ability to walk. As Berlin was besieged by the Russians in April/May 1945, Goebbels stayed with Hitler in Hitler\u2019s bunker. In his diary, he blamed the defeat of Germany on the German people and not Hitler."
+        ],
+        "incorrect answers": [
+            "Goebbels was Hitler\u2019s Chief of Staff and one of the leading generals in Nazi Germany, born in Berlin and graduated from the University of Munich with a PhD in 1920.",
+            "Goebbels was Hitler\u2019s Foreign Minister and organizer of international Nazi alliances, born in Bavaria and earned a law degree from the University of Heidelberg in 1918.",
+            "Goebbels was Hitler\u2019s Minister of Finance and architect of Nazi Germany\u2019s economic policies, born in Hamburg and received a doctorate of economics from Leipzig University in 1921.",
+            "Goebbels was Hitler\u2019s Secretary of State and expert in legal affairs of Nazi Germany, born in Vienna and awarded a degree in constitutional law in 1920.",
+            "Goebbels was Hitler\u2019s Chief Architect and master planner of Nazi propaganda spaces, born in Dresden and graduated from Berlin Technical Institute with an engineering degree in 1919.",
+            "Goebbels was Hitler\u2019s Minister of Defense and overseer of Nazi military strategies, born in Frankfurt and attended the German Military Academy, earning a strategic studies degree in 1920.",
+            "Goebbels was Hitler\u2019s Press Officer and journalist for the Nazi Party, born in Cologne and completed a literature and media studies doctorate from Heidelberg University in 1921.",
+            "Goebbels was Hitler\u2019s Cultural Affairs Adviser and promoter of Nazi art, born in Munich and awarded a doctorate in political philosophy from Heidelberg University in 1922."
+        ]
+    },
+    "9541": {
+        "id": "9541",
+        "question": "first college established in the united states",
+        "query_type": "person",
+        "correct answer": "Harvard University",
+        "golden_docs": [
+            "Harvard University, originally known as New College, was founded in 1636 and is the oldest institution of higher learning in the United States. It was the first of nine coloni \u2026 al colleges and was founded in the Massachusetts bay colony. Answered. In Texas."
+        ],
+        "incorrect answers": [
+            "Yale University",
+            "Princeton University",
+            "Columbia University",
+            "University of Pennsylvania",
+            "Brown University",
+            "Dartmouth College",
+            "College of William & Mary",
+            "Rutgers University"
+        ]
+    },
+    "3633": {
+        "id": "3633",
+        "question": "what company owns thoratec",
+        "query_type": "person",
+        "correct answer": "St. Jude Medical, Inc.",
+        "golden_docs": [
+            "St. Jude Medical, Inc. (NYSE: STJ) is a global medical device company headquartered in Saint Paul, Minnesota, United States. The company has more than 20 principal operations and manufacturing facilities worldwide with products sold in more than 100 countries. The company is named after Jude the Apostle, the patron saint of lost causes. St. Jude Medical was founded in 1976 and went public in 1977. The company has been listed in the Fortune 500 every year since 2010. Daniel Starks serves as the company's chairman, president and chief executive officer"
+        ],
+        "incorrect answers": [
+            "Abbott Laboratories",
+            "Medtronic, Inc.",
+            "Boston Scientific Corporation",
+            "Johnson & Johnson",
+            "Edwards Lifesciences",
+            "Zimmer Biomet Holdings",
+            "Stryker Corporation",
+            "Smith & Nephew"
+        ]
+    }
+}

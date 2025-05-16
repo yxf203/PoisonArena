@@ -1,0 +1,92 @@
+[
+    {
+        "question": "where did the term christian name come from",
+        "answers": [
+            "Apostolic origin"
+        ],
+        "qa_pairs": null,
+        "rationale": "The documents that are useful to answer the question \"where did the term 'Christian name' come from?\" are Documents 1, 2, and 5.\n\nDocument 1 provides the etymology of the term \"Christian\", which comes from the Greek word \"Christos\", meaning \"anointed one\". This sets the foundation for understanding the origin of the term.\n\nDocument 2 explains that the term \"Christian\" was used as a baptismal name, and that it has been used as a given name since the Middle Ages.\n\nDocument 5 provides the definition of \"Christian name\" as \"baptismal name\", and explains that the term \"christen\" means \"to baptize\". This document also mentions the practice of giving a name to a male child at the time of circumcision, which is relevant to the origin of the term \"Christian name\".\n\nBased on these documents, it can be deduced that the term \"Christian name\" originated from the practice of giving a name to a person at the time of baptism, which was a common practice in the early Christian Church. This practice was likely influenced by the Hebrew tradition of giving a name to a male child at the time of circumcision.\n\nThe answer \"Apostolic origin\" is not explicitly supported by the provided documents, but it can be inferred that the practice of giving a name at baptism was likely influenced by the early Christian Church, which was founded by the apostles. Therefore, the term \"Christian name\" can be said to have originated from the Apostolic era, although the exact origin is not explicitly stated in the provided documents.\n\nIn conclusion, the term \"Christian name\" originated from the practice of giving a name to a person at the time of baptism, which was influenced by the early Christian Church and the Hebrew tradition of giving a name at circumcision.",
+        "ctxs": [
+            {
+                "id": "12176140",
+                "title": "Christians",
+                "text": "Christ\", comes from (\"Christos\"), meaning \"anointed one\", with an adjectival ending borrowed from Latin to denote adhering to, or even belonging to, as in slave ownership. In the Greek Septuagint, \"christos\" was used to translate the Hebrew \u05de\u05b8\u05e9\u05b4\u05c1\u05d9\u05d7\u05b7 (\"Ma\u0161\u00eda\u1e25,\" messiah), meaning \"[one who is] anointed.\" In other European languages, equivalent words to Christian are likewise derived from the Greek, such as \"Chr\u00e9tien\" in French and \"Cristiano\" in Spanish. The first recorded use of the term (or its cognates in other languages) is in the New Testament, in Acts 11:26, after Barnabas brought Saul (Paul) to Antioch where they taught the",
+                "score": "79.37077",
+                "has_answer": false
+            },
+            {
+                "id": "10675285",
+                "title": "Christian (given name)",
+                "text": "Christian (given name) Christian originated as a Baptismal name used by persons of the Christian religion. It is now a given name born by males, and by females as Christiana and other feminized variants. An historically commonly used abbreviation, used for example on English 17th century church monuments and pedigrees, is \"Xpian\", using the Greek Chi Rho Christogram \"\u03a7\u03c1\", short for \"\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2\", Christ. The Greek form of the baptismal name is \"\u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03cc\u03c2\", a Christian. The name denotes a follower of Christ, thus a Christian. It has been used as a given name since the Middle Ages, at first as a",
+                "score": "79.41472",
+                "has_answer": false
+            },
+            {
+                "id": "3505466",
+                "title": "Christian name",
+                "text": "Christianity was baptized in 878, taking the name \u00c6thelstan. Various Fathers and spiritual writers and synodal decrees have exhorted Christians to give no names to their children in baptism but those of canonized saints or of the angels of God, but at no point in the history of the Church were these injunctions strictly attended to. They were not observed during the early or the later Middle Ages. In extensive lists of medieval names, such as those found in the indexes of legal proceedings which have been edited in modern times, while ordinary names without religious associations, such as William,",
+                "score": "80.20675",
+                "has_answer": false
+            },
+            {
+                "id": "3505457",
+                "title": "Christian name",
+                "text": "is recorded in Acts 9:18, but the name Paul does not occur before Acts 13:9 while Saul is found several times in the interval. There is no more reason to connect the name Paul with the Apostle's baptism than there is to account in the same way for the giving of the name Cephas or Peter, which is due to another cause. In the inscriptions of the catacombs and in early Christian literature, the names of Christians in the first three centuries did not distinctively differ from the names of the pagans around them. A reference to the Epistles of",
+                "score": "80.295876",
+                "has_answer": false
+            },
+            {
+                "id": "3505456",
+                "title": "Christian name",
+                "text": "christen thee in the name of the Father\" etc. To \"christen\" in this context is therefore to \"baptise\", and \"Christian name\" means \"baptismal name\". In view of the Hebrew practice of giving a name to the male child at the time of his circumcision on the eighth day after birth (Luke 1:59), it has been maintained that the custom of conferring a name upon the newly baptised was of Apostolic origin. For instance, the apostle of the Gentiles was called Saul before his conversion and Paul afterwards. But modern scholars have rejected this contention, since the baptism of St. Paul",
+                "score": "80.860176",
+                "has_answer": true
+            }
+        ]
+    },
+    {
+        "question": "the process in which the value of \u2206 u = 0 is",
+        "answers": [
+            "isothermal process"
+        ],
+        "qa_pairs": null,
+        "rationale": "After reviewing the provided documents, I found that Documents 1, 4, and 5 are relevant to answering the question \"the process in which the value of \u2206u = 0 is?\".\n\nDocument 1 defines the Gibbs free energy (\u0394G) as the maximum amount of non-expansion work that can be extracted from a thermodynamically closed system at a constant temperature and pressure. It also mentions that the Gibbs free energy is related to the internal energy (U) as \u0394G = \u0394H - T\u0394S, where H is the enthalpy and S is the entropy.\n\nDocument 4 defines an isothermal process as a change of a system where the temperature remains constant (\u0394T = 0). This process typically occurs when a system is in contact with an outside thermal reservoir and the change in the system occurs slowly enough to allow the system to adjust to the temperature of the reservoir through heat exchange.\n\nDocument 5 discusses thermodynamic equilibrium, which is characterized by the free energy being at its minimum value. The free energy change (\u03b4G) can be expressed as a weighted sum of chemical potentials, which are related to the partial molar free energies of the species in equilibrium.\n\nTo answer the question, we can analyze the relationship between the Gibbs free energy (\u0394G) and the internal energy (U). In an isothermal process, the temperature remains constant (\u0394T = 0), which means that the entropy (S) remains constant. Therefore, the change in internal energy (\u0394U) can be related to the change in Gibbs free energy (\u0394G) as:\n\n\u0394U = \u0394G + P\u0394V\n\nwhere P is the pressure and V is the volume.\n\nSince the process is isothermal, the pressure and volume are constant, and the change in internal energy (\u0394U) is equal to the change in Gibbs free energy (\u0394G). Therefore, in an isothermal process, the value of \u0394U = 0 when the value of \u0394G = 0.\n\nIn conclusion, the process in which the value of \u2206u = 0 is an isothermal process, as it is the only process where the temperature remains constant, and the change in internal energy (\u0394U) is equal to the change in Gibbs free energy (\u0394G).",
+        "ctxs": [
+            {
+                "id": "1795129",
+                "title": "Gibbs free energy",
+                "text": "Gibbs free energy In thermodynamics, the Gibbs free energy (IUPAC recommended name: Gibbs energy or Gibbs function; also known as free enthalpy to distinguish it from Helmholtz free energy) is a thermodynamic potential that can be used to calculate the maximum of reversible work that may be performed by a thermodynamic system at a constant temperature and pressure (isothermal, isobaric). The Gibbs free energy (\u0394G\u00ba = \u0394H\u00ba-T\u0394S\u00ba) (J in SI units) is the \"maximum\" amount of non-expansion work that can be extracted from a thermodynamically closed system (one that can exchange heat and work with its surroundings, but not matter);",
+                "score": "77.03917",
+                "has_answer": false
+            },
+            {
+                "id": "8633631",
+                "title": "Binding constant",
+                "text": "in solution, the molar Gibbs free energy \u0394\"G\", or the binding affinity is related to the dissociation constant \"K\" via in which \"R\" is the ideal gas constant, \"T\" temperature and the standard reference concentration \"c\" = 1 mol/L. Binding constant The binding constant, or association constant, is a special case of the equilibrium constant \"K\", and is the inverse of the dissociation constant. It is associated with the binding and unbinding reaction of receptor (R) and ligand (L) molecules, which is formalized as: The reaction is characterized by the on-rate constant \"k\" and the off-rate constant \"k\", which have",
+                "score": "77.34313",
+                "has_answer": false
+            },
+            {
+                "id": "3190036",
+                "title": "Coupling constant",
+                "text": "renormalization group, though it should be kept in mind that the renormalization group is a more general concept describing any sort of scale invariance in a physical system (see the full article for details). In quantum field theory, a \"beta function\" \u03b2(\"g\") encodes the running of a coupling parameter, \"g\". It is defined by the relation where \u03bc is the energy scale of the given physical process. If the beta functions of a quantum field theory vanish, then the theory is scale-invariant. The coupling parameters of a quantum field theory can flow even if the corresponding classical field theory is",
+                "score": "78.35327",
+                "has_answer": false
+            },
+            {
+                "id": "2449341",
+                "title": "Isothermal process",
+                "text": "Isothermal process An isothermal process is a change of a \"system\", in which the temperature remains constant: \u0394\"T\" = 0. This typically occurs when a system is in contact with an outside thermal reservoir (heat bath), and the change in the system will occur slowly enough to allow the system to continue to adjust to the temperature of the reservoir through heat exchange. In contrast, an \"adiabatic process\" is where a system exchanges no heat with its surroundings (\"Q\" = 0). In other words, in an isothermal process, the value \u0394\"T\" = 0 and therefore the change in internal energy",
+                "score": "78.390335",
+                "has_answer": true
+            },
+            {
+                "id": "4002660",
+                "title": "Equilibrium constant",
+                "text": "can be expressed as Thermodynamic equilibrium is characterized by the free energy for the whole (closed) system being a minimum. For systems at constant temperature and pressure the Gibbs free energy is minimum. The slope of the reaction free energy with respect to the reaction coordinate, \"\u03be\", is zero when the free energy is at its minimum value. The free energy change, \"\u03b4G\", can be expressed as a weighted sum of chemical potentials, the partial molar free energies of the species in equilibrium. The potential, \"\u03bc\", of the \"i\"th species in a chemical reaction is the partial derivative of the",
+                "score": "79.43709",
+                "has_answer": false
+            }
+        ]
+    }
+]
