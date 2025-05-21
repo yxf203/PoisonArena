@@ -1,4 +1,4 @@
-# 🥊PoisonArena: A Benchmark for Competing Poisoning Attacks in Retrieval-Augmented Generation
+# 🥊PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation
 
 Here is the codebase for **PoisonArena**🏟️ — introduced in our paper as a novel benchmark designed to evaluate competing data poisoning attacks in **Retrieval-Augmented Generation (RAG)** systems under **multi-adversary** settings.
 
@@ -578,5 +578,8 @@ Thanks again to all the incredible works we built upon:
 - [Corpus-Poison](https://github.com/princeton-nlp/corpus-poisoning)
 - [Content-Poisoning](https://github.com/ZQ-Struggle/Content-Poisoning)
 - [InstructRAG](https://github.com/weizhepei/InstructRAG)
+<<<<<<< HEAD
 
 We are also grateful to both open-source contributors and proprietary model providers, including OpenAI's ChatGPT, whose models supported our experiments.
+=======
+>>>>>>> add412bc71f16bd5d7cc2a73f3824f7dbd490947
