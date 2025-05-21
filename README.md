@@ -41,24 +41,24 @@ Thanks to the following amazing works that we integrated:
 
 ## 🔗Quick Link
 
-- [🔧Prerequisites](#🔧prerequisites)
-  * [🔹1. Prepare the Data](#🔹1-prepare-the-data)
-  * [🔹2. Prepare Models](#🔹2-prepare-models)
-  * [🔹3. Evaluate BEIR](#🔹3-evaluate-beir)
-  * [🔹4. Prepare Arena Data](#🔹4-prepare-arena-data)
-- [🏟️ PoisonArena](#🏟️-poisonarena)
-  * [📁 Project Structure](#📁-project-structure)
-  * [⚔️ How to Run PoisonArena](#⚔️-how-to-run-poisonarena)
-- [💻 Reproducing Experiments](#💻-reproducing-experiments)
-  * [🔹 1. COMBAT](#🔹-1-combat)
-  * [🔹 2. Poison Methods](#🔹-2-poison-methods)
+- [🔧Prerequisites](#prerequisites)
+  * [🔹1. Prepare the Data](#1-prepare-the-data)
+  * [🔹2. Prepare Models](#2-prepare-models)
+  * [🔹3. Evaluate BEIR](#3-evaluate-beir)
+  * [🔹4. Prepare Arena Data](#4-prepare-arena-data)
+- [🏟️ PoisonArena](#-poisonarena)
+  * [📁 Project Structure](#-project-structure)
+  * [⚔️ How to Run PoisonArena](#-how-to-run-poisonarena)
+- [💻 Reproducing Experiments](#-reproducing-experiments)
+  * [🔹 1. COMBAT](#-1-combat)
+  * [🔹 2. Poison Methods](#-2-poison-methods)
     + [2.1 PoisonedRAG](#21-poisonedrag)
     + [2.2 AdvDec](#22-advdec)
     + [2.3 GARAG](#23-garag)
     + [2.4 GASLITE](#24-gaslite)
     + [2.5 Corpus-Poison](#25-corpus-poison)
     + [2.6 Content-Poison](#26-content-poison)
-- [🙏 Acknowledgements](#🙏-acknowledgements)
+- [🙏 Acknowledgements](#-acknowledgements)
 
 ## 🔧Prerequisites
 
