@@ -37,7 +37,7 @@ def wrap_defence_prompt(question, context, demos=None):
         list: 包装后的提示列表
     """
     if demos is None:
-        with open('/data/chenliuji/poison/arena/defence/demos.json', 'r') as f:
+        with open('./demos.json', 'r') as f:
             demos = json.load(f)
     contexts = ''.join([f"Context {i+1}: {ctx}\n" for i, ctx in enumerate(context)])
 

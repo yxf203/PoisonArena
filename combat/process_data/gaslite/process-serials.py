@@ -52,8 +52,3 @@ transform_data(
     'diff-corpus/new-diff-corpus/nq-inco_ans_6.json',
     'gaslite-serials-ans6.json'
 )
-# transform_data(
-#     'test2222.json',
-#     'diff-corpus/new-diff-corpus/nq-inco_ans_6.json',
-#     '/data2/chenliuji/combat/main/serials_data/original/gaslite/test-2222.json'
-# )

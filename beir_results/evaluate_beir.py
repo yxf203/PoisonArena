@@ -27,7 +27,6 @@ parser.add_argument('--dataset', type=str, default="msmarco", help='BEIR dataset
 parser.add_argument('--split', type=str, default='test')
 
 parser.add_argument('--result_output', default="./ms-contriever-dot.json", type=str)
-# parser.add_argument('--result_output', default="/data1/chenliuji/combat/PoisonedRAG/results/TrojanRAG_results/TrojanRAG_100.json", type=str)
 
 parser.add_argument('--gpu_id', type=int, default=0)
 parser.add_argument("--per_gpu_batch_size", default=64, type=int, help="Batch size per GPU/CPU for indexing.")

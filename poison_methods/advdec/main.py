@@ -101,7 +101,7 @@ def main():
     parser.add_argument(
         "--model_path",
         type=str,
-        default="/data2/chenliuji/models/Llama-3.2-3B-Instruct",
+        default="../../models/Llama-3.2-3B-Instruct",
         help="your model path"
     )
 

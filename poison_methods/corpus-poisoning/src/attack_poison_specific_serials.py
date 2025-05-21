@@ -240,7 +240,7 @@ def main():
     group_size = 10
     current_group = 0
 
-    with open("/data/chenliuji/poison/corpus-poisoning/dataset/diff-curpus/new-diff-corpus/test_to_s_mapping.csv", "r") as f:
+    with open("../../datasets/serial_questions/test_to_s_mapping.csv", "r") as f:
         df = pd.read_csv(f)
         # Create a mapping from new_s_id to original_test_id
         s_to_test_mapping = {}

@@ -121,7 +121,7 @@ def main():
 
         # target_queries = [incorrect_answers[idx]['question'] for idx in target_queries_idx]
         # change to the question list
-        with open("/data/chenliuji/poison/PoisonedRAG/dataset/new_diff/incorrect_ans_docs/nq-all-adv-docs-with-serial-q.json", "r") as f:
+        with open("../../datasets/serials_questions/nq-all-adv-docs-with-serial-q.json", "r") as f:
             for_questions = json.load(f)
         # target_queries = [incorrect_answers[idx]['questions'][:5] for idx in target_queries_idx]
         ids = [incorrect_answers[idx]['id'] for idx in target_queries_idx]

@@ -29,6 +29,6 @@ for item in data_5000_10:
         output_data.append(new_dict)
     # break
 
-with open('/data2/chenliuji/combat/main/data/original/ms/corpus/corpus-dcorpus-answer-ans6.json', 'w') as f:
+with open('ms/corpus/corpus-dcorpus-answer-ans6.json', 'w') as f:
     json.dump(output_data, f, indent=4)
 print("done!")

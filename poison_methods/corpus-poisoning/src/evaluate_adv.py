@@ -87,7 +87,7 @@ def main():
         # Try to get beir eval results from ./beir_results
         print("Now try to get beir eval results from results/beir_results/...")
         if args.split == 'test':
-            args.orig_beir_results = f"/data1/chenliuji/combat/PoisonedRAG/results/beir_results/{args.eval_dataset}-{args.eval_model_code}-new.json"
+            args.orig_beir_results = f"../../beir_results/{args.eval_dataset}-{args.eval_model_code}-new.json"
             # args.orig_beir_results = f"results/beir_results/{args.eval_dataset}-{args.eval_model_code}.json"
         elif args.split == 'dev':
             args.orig_beir_results = f"results/beir_results/{args.eval_dataset}-{args.eval_model_code}-dev.json"

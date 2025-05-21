@@ -85,7 +85,7 @@ def wrap_defence_prompt(question, context, demos=None):
     
 
     if demos is None:
-        with open('/data2/chenliuji/combat/main/defence/demos.json', 'r') as f:
+        with open('defence/demos.json', 'r') as f:
             demos = json.load(f)
     contexts = ''.join([f"Context {i+1}: {ctx}\n" for i, ctx in enumerate(context)])
 

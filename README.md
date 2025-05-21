@@ -39,6 +39,27 @@ Thanks to the following amazing works that we integrated:
 └── README.md
 ```
 
+## 🔗Quick Link
+
+- [🔧Prerequisites](#🔧prerequisites)
+  * [🔹1. Prepare the Data](#🔹1-prepare-the-data)
+  * [🔹2. Prepare Models](#🔹2-prepare-models)
+  * [🔹3. Evaluate BEIR](#🔹3-evaluate-beir)
+  * [🔹4. Prepare Arena Data](#🔹4-prepare-arena-data)
+- [🏟️ PoisonArena](#🏟️-poisonarena)
+  * [📁 Project Structure](#📁-project-structure)
+  * [⚔️ How to Run PoisonArena](#⚔️-how-to-run-poisonarena)
+- [💻 Reproducing Experiments](#💻-reproducing-experiments)
+  * [🔹 1. COMBAT](#🔹-1-combat)
+  * [🔹 2. Poison Methods](#🔹-2-poison-methods)
+    + [2.1 PoisonedRAG](#21-poisonedrag)
+    + [2.2 AdvDec](#22-advdec)
+    + [2.3 GARAG](#23-garag)
+    + [2.4 GASLITE](#24-gaslite)
+    + [2.5 Corpus-Poison](#25-corpus-poison)
+    + [2.6 Content-Poison](#26-content-poison)
+- [🙏 Acknowledgements](#🙏-acknowledgements)
+
 ## 🔧Prerequisites
 
 ### 🔹1. Prepare the Data
@@ -52,7 +73,22 @@ cd datasets
 python prepare_dataset.py
 ```
 
-### 🔹2. Evaluate BEIR
+### 🔹2. Prepare Models
+
+Please place your **retrieval model** in the `retriever` directory and your **LLM model** in the `models` directory.
+
+You can download the models used in our experiments from [HuggingFace](https://huggingface.co/):
+
+- **Retriever**: [facebook/contriever](https://huggingface.co/facebook/contriever)
+- **LLMs**:
+  - [meta-llama/Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+  - [meta-llama/Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
+  - [lmsys/vicuna-7b-v1.5](https://huggingface.co/lmsys/vicuna-7b-v1.5)
+  - [microsoft/Phi-4-mini-instruct](https://huggingface.co/microsoft/Phi-4-mini-instruct)
+
+If you choose to use a different LLM, make sure to update the configuration accordingly in the `model_configs` file.
+
+### 🔹3. Evaluate BEIR
 
 Place your data under the `/datasets` directory. For example, if you're using the NQ dataset, structure it like this: `/datasets/nq`. Make sure both `queries.jsonl` and `qrels/qrels.tsv` are present—these files are required.
 
@@ -84,7 +120,7 @@ This will create the index mapping between queries and the corpus. It will be us
 
 We have included our experimental BEIR results in the `/beir_results` directory.
 
-### 🔹3. Prepare Arena Data
+### 🔹4. Prepare Arena Data
 
 We generate multiple *plausible but incorrect* answers for each query using the GPT-4o model.
 
@@ -146,10 +182,12 @@ Let’s walk through how to use PoisonArena:
 
 #### 1. Prepare Your Data
 
+> **Tips:** Before launching **PoisonArena**, make sure you have completed the attacks for each strategy you plan to include. For example, in our experiments, we first ran attacks using methods such as PoisonedRAG to generate the necessary attack data. This data forms the core of the arena battles.
+
 Ensure that:
 
 - You’ve generated arena-compatible data (see **3. Prepare Arena Data** section).
-- Attack data from various strategies is placed under the correct subdirectories (e.g., `attacked_data/`, `serials_data/`).
+- **Attack data from various strategies is placed under the correct subdirectories** (e.g., `attacked_data/`, `serials_data/`).
 - All required files are properly located.
 
 #### 2. Build the Arena Dataset
@@ -178,6 +216,8 @@ Make sure all necessary arguments are correctly set in the python file or passed
 ## 💻 Reproducing Experiments
 
 ### 🔹 1. COMBAT
+
+> **Tips Again:** Before launching the **combat**, ensure that you’ve completed the attacks for each strategy you intend to include. This data will be required later in the [**Customizing Attackers**](#👥-customizing-attackers) section.
 
 📁 **Directory**: `combat/`
 
@@ -240,6 +280,8 @@ Results will be saved in:
 
 - `combat_details`: showing the combat details(like question, topk docs, attackers target answers and so on).
 - `all_results`: the final combat results. You can see some previous results we obtained there!
+
+The results include metrics such as **ASR** and **F1-score**.
 
 #### 👥 Customizing Attackers
 
@@ -536,3 +578,5 @@ Thanks again to all the incredible works we built upon:
 - [Corpus-Poison](https://github.com/princeton-nlp/corpus-poisoning)
 - [Content-Poisoning](https://github.com/ZQ-Struggle/Content-Poisoning)
 - [InstructRAG](https://github.com/weizhepei/InstructRAG)
+
+We are also grateful to both open-source contributors and proprietary model providers, including OpenAI's ChatGPT, whose models supported our experiments.
