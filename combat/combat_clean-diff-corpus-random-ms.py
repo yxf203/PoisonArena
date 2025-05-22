@@ -11,7 +11,7 @@ from utils.utils import setup_seeds, clean_str
 import copy
 from utils.eval import find_same_id_item, evaluate
 from utils.tools import query_gpt
-from utils.prompt import wrap_prompt
+from utils.prompt import wrap_prompt, judge_response
 import itertools
 import pandas as pd
 import torch
@@ -22,7 +22,7 @@ def parse_args():
 
     # Retriever and BEIR datasets
     parser.add_argument("--eval_model_code", type=str, default="contriever")
-    parser.add_argument('--eval_dataset', type=str, default="nq", help='BEIR dataset to evaluate')
+    parser.add_argument('--eval_dataset', type=str, default="ms", help='BEIR dataset to evaluate')
     parser.add_argument('--split', type=str, default='test')
     parser.add_argument("--orig_beir_results", type=str, default=None, help='Eval results of eval_model on the original beir eval_dataset')
     parser.add_argument("--query_results_dir", type=str, default='main')
@@ -133,44 +133,44 @@ def main():
         {
             "nick_name": "CP",
             "name": "Cpoison5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/cpoison/cpoison5-inco-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/{args.model_name}/cpoison/cpoison5-inco-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "GASLITE",
             "name": "GASLITE5-ans",
-            "base_path": f"data/combat_data/single_data/nq/gaslite/gaslite-dcorpus-ans.json",
+            "base_path": f"data/combat_data/single_data/ms/gaslite/gaslite-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "PB",
             "name": "PoisonedRAG5-black-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-black-suffix-dcorpus-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/P/P5-black-suffix-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "PW",
             "name": "PoisonedRAG5-white-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-white-suffix-dcorpus-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/P/P5-white-suffix-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "A",
             "name": "AdvDec5-dcorpus-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/AdvDec/AdvDec5-dcorpus-dot-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/{args.model_name}/AdvDec/AdvDec5-dcorpus-dot-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "CA",
             "name": "corpus5-answer-ans",
-            "base_path":f"data/combat_data/single_data/nq/corpus/corpus-dcorpus-answer-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/corpus/corpus-dcorpus-answer-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "GAR",
             "name": "GARAG5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
-            "path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
+            "base_path":f"data/combat_data/single_data/ms/{args.model_name}/G/GARAG5-ans.json",
+            "path":f"data/combat_data/single_data/ms/{args.model_name}/G/GARAG5-ans.json",
             "adv_per_query": 5
         },
     ]
@@ -316,10 +316,18 @@ def main():
                 d["ctxs"] = sorted(d["ctxs"], key=lambda x: float(x['score']), reverse=True)
                 # add llm response to corresponding query
                 response = llm.query(query_prompt)
-                d["response"] = response
+                # d["response"] = response
+                # # get all target answers in order to justify the tie
+                # d["answers"] = get_all_ans([], attackers, id, 1)
+
+                d["previous response"] = response
                 # get all target answers in order to justify the tie
                 d["answers"] = get_all_ans([], attackers, id, 1)
-
+                answers = []
+                answers.append(d["ground truth answer"])
+                answers += [item["answer"] for item in d["answers"]]
+                final_ans = judge_response(response, answers)
+                d["response"] = final_ans
 
             records = []
             for attacker in attackers:
@@ -425,3 +433,5 @@ def main():
         print(f"costing time: {end_time - start_time}")
 if __name__ == '__main__':
     main()
+
+        

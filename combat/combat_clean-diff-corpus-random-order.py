@@ -106,8 +106,6 @@ def generate_valid_suffixes_efficient(n, attackers, cp_index):
     
     return suffixes
 
-        
-
 
 def main():
     args = parse_args()
@@ -128,73 +126,29 @@ def main():
     # Load generative model such as llama
     llm = create_model("../"+args.model_config_path)
     results = init_db(args)
+    all_attackers = ["CP", "gaslite", "PB", "PW", "A", "CA", "GAR"]
 
-    all_attackers = [
-        {
-            "nick_name": "CP",
-            "name": "Cpoison5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/cpoison/cpoison5-inco-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "GASLITE",
-            "name": "GASLITE5-ans",
-            "base_path": f"data/combat_data/single_data/nq/gaslite/gaslite-dcorpus-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "PB",
-            "name": "PoisonedRAG5-black-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-black-suffix-dcorpus-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "PW",
-            "name": "PoisonedRAG5-white-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-white-suffix-dcorpus-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "A",
-            "name": "AdvDec5-dcorpus-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/AdvDec/AdvDec5-dcorpus-dot-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "CA",
-            "name": "corpus5-answer-ans",
-            "base_path":f"data/combat_data/single_data/nq/corpus/corpus-dcorpus-answer-ans.json",
-            "adv_per_query": 5
-        },
-        {
-            "nick_name": "GAR",
-            "name": "GARAG5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
-            "path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
-            "adv_per_query": 5
-        },
-    ]
     all_results = {}
-    combat_n = args.combat_n
+    combat_n = 2
     print("combat_n:", combat_n)
 
-    all_combinations = list(itertools.combinations(all_attackers, combat_n))
+    all_combinations = list(itertools.permutations(all_attackers, combat_n))
 
     start = 0
-    # all_combinations = filtered_combinations
     end = len(all_combinations)
 
     print("start end:", start, end)
     all_combinations = all_combinations[start:end]
     for attackers in all_combinations:
-        if attackers[0]["nick_name"] != "GAR":
-            temp_path = attackers[0]["base_path"].replace("ans.json", f"ans1.json")
+        if attackers[0] == "GAR":
+            temp_path = f"data/combat_data/order_data/first/{attackers[0]}.json"
         else:
-            temp_path = attackers[0]["base_path"]
+            temp_path = f"data/combat_data/order_data/first/{attackers[0]}1.json"
+        # with open("main/data/combat_data/G/GARAG5-ans.json", "r") as f:
         with open(temp_path, "r") as f:
             adv_texts = json.load(f)
             # 2 places should be changed
-            adv_texts = adv_texts[:100]
+            adv_texts = adv_texts[:10]
         original_db = []
         missing_ids = 0
         # for item in adv_texts:
@@ -217,22 +171,31 @@ def main():
             original_db.append(temp)
 
         print("original db length: ", len(original_db))
-        is_random = bool(args.is_random)
+        is_random = False
         print("is_random:", is_random)
-        iteration = args.iteration
-        n = 6
+        iteration = 10
+        n = 2
+
+        print("attachkers:", attackers)
+        attackers = [
+            {
+                'nick_name': attacker,
+                "name": attacker,
+                "adv_per_query": 5,
+            }
+            for attacker in attackers
+        ]
+
         # Check if any attacker has nick_name "CP" and get its index
-        cp_index = next((i for i, attacker in enumerate(attackers) if attacker["nick_name"] == "CP"), None)
+        cp_index = next((i for i, attacker in enumerate(attackers) if attacker['nick_name'] == "CP"), None)
         if is_random:
             permutations = range(iteration)
         else:
             # permutations = [list(p) for p in itertools.permutations(range(1, n+1))]
             permutations = list(itertools.permutations(range(1, n+1), combat_n))
 
-            # Filter permutations where the element at cp_index is greater than 3
-            if cp_index is not None:
-                permutations = [p for p in permutations if p[cp_index] <= 3]
-                print("len of permutations:", len(permutations)) 
+
+
         total_file_name = ""
         start_time = time.time()
 
@@ -240,26 +203,38 @@ def main():
         tie_total = []
         for attacker in attackers:
             scores_record[attacker["name"]] = []
-            total_file_name += attacker["nick_name"] + "-"
+            total_file_name += attacker['nick_name'] + "-"
         if is_random:
             total_file_name += 'random-' + str(iteration)
         for p in permutations:
-            print("permutation:", p)
             if is_random:
                 suffixes = random.sample(range(1, n + 1), len(attackers))
                 # get permutations where the element at cp_index is less than 3
                 if cp_index is not None:
                     suffixes = generate_valid_suffixes_efficient(n, attackers, cp_index)
-                    print("CP!suffixs:", suffixes)
-                print("suffixs:", suffixes)
+                    print("suffixs:", suffixes)
             else:
                 suffixes = p
-            for attacker, suffix in zip(attackers, suffixes):
-                if attacker["nick_name"] == "GAR":
-                    continue
-                attacker["path"] = attacker["base_path"].replace("ans.json", f"ans{suffix}.json")
-                # attacker["name"] = attacker["name"].replace("ans", f"ans{suffix}")
 
+            if attackers[0]['nick_name'] != "GAR":
+                attackers[0]["path"] = f"data/combat_data/order_data/first/{attackers[0]['nick_name']}{suffixes[0]}.json"
+            else:
+                attackers[0]["path"] = f"data/combat_data/order_data/first/{attackers[0]['nick_name']}.json"
+            
+            if attackers[1]['nick_name'] != "GAR":
+                second_path = f"data/combat_data/order_data/second/after-{attackers[0]['nick_name']}{suffixes[0]}-{attackers[1]['nick_name']}{suffixes[1]}.json"
+            else:
+                second_path = f"data/combat_data/order_data/second/after-{attackers[0]['nick_name']}{suffixes[0]}-{attackers[1]['nick_name']}.json"
+            print("second:", second_path)
+            if os.path.exists(second_path):
+                attackers[1]["path"] = second_path
+            else:
+                if attackers[1]['nick_name'] != "GAR":
+                    attackers[1]["path"] = f"data/combat_data/order_data/first/{attackers[1]['nick_name']}{suffixes[1]}.json"
+                else:
+                    attackers[1]["path"] = f"data/combat_data/order_data/first/{attackers[1]['nick_name']}.json"
+            print(attackers[0]["path"])
+            print(attackers[1]["path"])
 
             
             attacked_db = copy.deepcopy(original_db)
@@ -268,9 +243,8 @@ def main():
                 print(f"{attacker['name']} is attacking……")
                 with open(attacker["path"], "r") as f:
                     adv_texts = json.load(f)
-                    adv_texts = adv_texts[:100]
+                    adv_texts = adv_texts[:10]
                 ans_list = []
-
                 for item in adv_texts:
                     id = item["id"]
                     # topk_idx = list(results[id].keys())[:args.top_k]
@@ -283,7 +257,12 @@ def main():
                     for index, i in enumerate(item["adv_texts"]):
                         i["source"] = attacker["name"]
                         topk_results.append(i)
-
+                    # info["ctxs"] = topk_results
+                    # temp = {
+                    #     "id": item["id"],
+                    #     "question": item["question"],
+                    #     "ctxs": topk_results,
+                    # }
                     answers = item["answer"]
                     if item["incorrect_answer"] == None:
                         answers = get_all_ans(answers, attackers, id)
@@ -297,7 +276,7 @@ def main():
 
                     # attacked_db.append(temp)
                 attacker["ans_list"] = ans_list
-                filename += attacker["nick_name"] + "-"
+                filename += attacker['nick_name'] + "-"
             filename += f"{args.top_k}"
             filename += str(suffixes)
             if is_random:

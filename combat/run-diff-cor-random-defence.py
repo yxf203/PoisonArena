@@ -8,7 +8,7 @@ def run(test_params):
     # cmd = f"python3 -u main.py \
     # cmd = f"nohup python3 -u main-combat-reconstruct.py \
     # cmd = f"nohup python3 -u combat-PG.py \
-    cmd = f"python3 -u main.py \
+    cmd = f"nohup python3 -u main/combat_clean-diff-corpus-random-defence.py \
         --eval_model_code {test_params['eval_model_code']}\
         --eval_dataset {test_params['eval_dataset']}\
         --split {test_params['split']}\
@@ -54,13 +54,14 @@ test_params = {
     'eval_dataset': "nq",
     'split': "test",
     # 'query_results_dir': 'main',
-    'query_results_dir': 'Padv',
+    'query_results_dir': 'combat-defence',
 
     # LLM setting
     # 'model_name': 'palm2', 
     'model_name': 'llama8b',
     'use_truth': False,
     'top_k': 5,
+    # 'top_k': 10,
     'gpu_id': 0,
 
     # attack
@@ -68,6 +69,7 @@ test_params = {
     # 'attack_method': 'hotflip',
     'adv_per_query': 5,
     'score_function': 'dot',
+    # 'score_function': 'cos_sim',
     'repeat_times': 10,
     'M': 10,
     'seed': 12,

@@ -5,14 +5,12 @@ import json
 from tqdm import tqdm
 import random
 import numpy as np
-from src.models import create_model
 from src.utils import load_beir_datasets, load_models
 from src.utils import save_results, load_json, setup_seeds, clean_str, f1_score
 from src.attack import Attacker
 from src.prompts import wrap_prompt
 import torch
 import time
-os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 print("CUDA:",torch.cuda.is_available()) 
 def parse_args():

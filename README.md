@@ -73,6 +73,8 @@ cd datasets
 python prepare_dataset.py
 ```
 
+If you would like to reproduce our experiments, please move the files from the `datasets/used_nq` and `datasets/used_msmarco` directories to the corresponding `datasets/nq` and `datasets/msmarco` directories, as these are the files we used.
+
 ### 🔹2. Prepare Models
 
 Please place your **retrieval model** in the `retriever` directory and your **LLM model** in the `models` directory.
@@ -116,7 +118,7 @@ Then:
    python evaluate_beir.py
    ```
 
-This will create the index mapping between queries and the corpus. It will be used in subsequent experiments to retrieve the top-k documents from the knowledge base.
+This will create the **index mapping between queries and the corpus**. It will be used in subsequent experiments to retrieve the top-k documents from the knowledge base.
 
 We have included our experimental BEIR results in the `/beir_results` directory.
 
@@ -306,6 +308,8 @@ Then you can run the code to get your own combat results!
 
 #### 📄 Advanced Experiments
 
+> Don't worry about the number of files! The core part—the combat logic—remains the same across them. Most variations only modify the attacker configurations.
+
 - **Sequential Attacks** (series of related queries):
 
   ```bash
@@ -410,7 +414,7 @@ python main.py --experiment misinfo
 
 ##### 🛠️ Process Results
 
-Move the results to `process_data/AdvDec/` and execute:
+Move the results to `combat/process_data/AdvDec/` and execute:
 
 ```bash
 python process.py
@@ -451,6 +455,8 @@ pip install -r requirements.txt
 ```
 
 > **Note**: `ctxs` are the top retrieved documents from the knowledge base.
+
+You can generate the data for GARAG using the data for PoisonedRAG. We've prepared a script at `poison_methods/PoisonedRAG/gen_origin_GARAG.py`. *(Please make sure to update the file name within the script accordingly.)*
 
 ##### 🚀 Run Attack
 
@@ -502,7 +508,7 @@ sh ./scripts/attack2_knows-nothing.sh
 
 ##### 🛠️ Process Results
 
-Processed via: `combat/process_data/gaslite/`
+Processed via: `combat/combat/process_data/gaslite/`
 
 #### 2.5 Corpus-Poison
 
@@ -529,7 +535,7 @@ sh scripts/attack_poison.sh contriever nq 1
 
 ##### 🛠️ Process Results
 
-Use the python file located at: `combat/process_data/corpus-poison/`
+Use the python file located at: `combat/combat/process_data/corpus-poison/`
 
 #### 2.6 Content-Poison
 

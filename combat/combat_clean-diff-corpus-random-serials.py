@@ -133,44 +133,44 @@ def main():
         {
             "nick_name": "CP",
             "name": "Cpoison5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/cpoison/cpoison5-inco-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/{args.model_name}/cpoison/cpoison5-inco-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "GASLITE",
             "name": "GASLITE5-ans",
-            "base_path": f"data/combat_data/single_data/nq/gaslite/gaslite-dcorpus-ans.json",
+            "base_path": f"data/combat_data/serials_data/nq/gaslite/gaslite-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "PB",
             "name": "PoisonedRAG5-black-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-black-suffix-dcorpus-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/P/P5-black-suffix-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "PW",
             "name": "PoisonedRAG5-white-suffix-ans",
-            "base_path":f"data/combat_data/single_data/nq/P/P5-white-suffix-dcorpus-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/P/P5-white-suffix-dcorpus-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "A",
             "name": "AdvDec5-dcorpus-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/AdvDec/AdvDec5-dcorpus-dot-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/{args.model_name}/AdvDec/AdvDec5-dcorpus-dot-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "CA",
             "name": "corpus5-answer-ans",
-            "base_path":f"data/combat_data/single_data/nq/corpus/corpus-dcorpus-answer-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/corpus/corpus-dcorpus-answer-ans.json",
             "adv_per_query": 5
         },
         {
             "nick_name": "GAR",
             "name": "GARAG5-ans",
-            "base_path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
-            "path":f"data/combat_data/single_data/nq/{args.model_name}/G/GARAG5-ans.json",
+            "base_path":f"data/combat_data/serials_data/nq/{args.model_name}/G/GARAG5-ans.json",
+            "path":f"data/combat_data/serials_data/nq/{args.model_name}/G/GARAG5-ans.json",
             "adv_per_query": 5
         },
     ]
@@ -194,7 +194,8 @@ def main():
         with open(temp_path, "r") as f:
             adv_texts = json.load(f)
             # 2 places should be changed
-            adv_texts = adv_texts[:100]
+            # adv_texts = adv_texts[:100]
+            adv_texts = [item for item in adv_texts if int(item["id"].lstrip('s')) % 10 >= 5]
         original_db = []
         missing_ids = 0
         # for item in adv_texts:
@@ -268,7 +269,8 @@ def main():
                 print(f"{attacker['name']} is attacking……")
                 with open(attacker["path"], "r") as f:
                     adv_texts = json.load(f)
-                    adv_texts = adv_texts[:100]
+                    # adv_texts = adv_texts[:100]
+                    adv_texts = [item for item in adv_texts if int(item["id"].lstrip('s')) % 10 >= 5]
                 ans_list = []
 
                 for item in adv_texts:

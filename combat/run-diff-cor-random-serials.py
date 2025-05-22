@@ -4,10 +4,11 @@ def run(test_params):
 
     log_file, log_name = get_log_name(test_params)
 
-
+    print(log_file, log_name)
     # cmd = f"python3 -u main.py \
     # cmd = f"nohup python3 -u main-combat-reconstruct.py \
-    cmd = f"nohup python3 -u serials_adv_gen.py \
+    # cmd = f"nohup python3 -u combat-PG.py \
+    cmd = f"nohup python3 -u main/combat_clean-diff-corpus-random-serials.py \
         --eval_model_code {test_params['eval_model_code']}\
         --eval_dataset {test_params['eval_dataset']}\
         --split {test_params['split']}\
@@ -52,23 +53,25 @@ test_params = {
     'eval_model_code': "contriever",
     'eval_dataset': "nq",
     'split': "test",
-    'query_results_dir': 'sole',
+    # 'query_results_dir': 'main',
+    'query_results_dir': 'combat-serials',
 
     # LLM setting
     # 'model_name': 'palm2', 
     'model_name': 'llama8b',
     'use_truth': False,
-    'top_k': 5,
+    # 'top_k': 5,
+    'top_k': 10,
     'gpu_id': 0,
 
     # attack
-    # 'attack_method': 'LM_targeted',
-    'attack_method': 'hotflip',
+    'attack_method': 'LM_targeted',
+    # 'attack_method': 'hotflip',
     'adv_per_query': 5,
     'score_function': 'dot',
-    # here repeat_times has been the length of the list
-    'repeat_times': 100,
-    'M': 1,
+    # 'score_function': 'cos_sim',
+    'repeat_times': 10,
+    'M': 10,
     'seed': 12,
 
     'note': None

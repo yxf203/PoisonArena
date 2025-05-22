@@ -5,7 +5,6 @@ import json
 from tqdm import tqdm
 import random
 import numpy as np
-from src.models import create_model
 from src.utils import load_beir_datasets, load_models
 from src.utils import save_results, load_json, setup_seeds, clean_str, f1_score
 from src.prompts import wrap_prompt
@@ -70,7 +69,7 @@ def main():
         corpus, queries, qrels = load_beir_datasets(args.eval_dataset, args.split)
 
     # the file is going to get the id and question
-    with open("dataset/new_diff/incorrect_ans_docs/split_by_answer_position/nq-inco_ans_1.json", "r") as f:
+    with open("dataset/nq/split_by_answer_position/nq-inco_ans_1.json", "r") as f:
         adv_texts = json.load(f)
     trans2GARAG = []
 
@@ -92,7 +91,7 @@ def main():
         }
         trans2GARAG.append(trans)
 
-    with open("dataset/new_diff/diff-corpus/origin-4GARAG-dot.json", "w") as f:
+    with open("dataset/nq/origin-4GARAG-dot.json", "w") as f:
         json.dump(trans2GARAG, f, indent=4)
     
 if __name__ == '__main__':

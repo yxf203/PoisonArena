@@ -11,7 +11,7 @@ from utils.utils import setup_seeds, clean_str
 import copy
 from utils.eval import find_same_id_item, evaluate
 from utils.tools import query_gpt
-from utils.prompt import wrap_prompt
+from utils.prompt import wrap_defence_prompt
 import itertools
 import pandas as pd
 import torch
@@ -310,8 +310,8 @@ def main():
                 question = d["question"]
                 topk_results = sorted(topk_results, key=lambda x: float(x['score']), reverse=True)
                 topk_contents = [topk_results[j]["context"] for j in range(args.top_k)]
-                # query_prompt = wrap_prompt(question, topk_contents, prompt_id=4)
-                query_prompt = wrap_prompt(question, topk_contents)
+                # query_prompt = wrap_defence_prompt(question, topk_contents, prompt_id=4)
+                query_prompt = wrap_defence_prompt(question, topk_contents)
                 d["input_prompt"] = query_prompt
                 d["ctxs"] = sorted(d["ctxs"], key=lambda x: float(x['score']), reverse=True)
                 # add llm response to corresponding query
