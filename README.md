@@ -1,6 +1,8 @@
 # 🥊PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation
 
-Here is the codebase for **PoisonArena**🏟️ — introduced in our paper as a novel benchmark designed to evaluate competing data poisoning attacks in **Retrieval-Augmented Generation (RAG)** systems under **multi-adversary** settings.
+[![arXiv](https://img.shields.io/badge/arXiv-2505.12574-b31b1b.svg)](https://arxiv.org/abs/2505.12574)
+
+Here is the repo for **PoisonArena**🏟️ — introduced in our paper as a novel benchmark designed to evaluate competing data poisoning attacks in **Retrieval-Augmented Generation (RAG)** systems under **multi-adversary** settings.
 
 This codebase also includes re-implementations of several state-of-the-art poisoning attack methods.
 
