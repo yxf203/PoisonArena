@@ -146,9 +146,9 @@ def load_cached_eval(
 ):
     """Returns the cached results, on None if not found."""
     print("load split:", data_split)
-    # local_results_path = '/data1/chenliuji/combat/PoisonedRAG/results/beir_results/nq-contriever-new.json'
-    local_results_path = '/data2/chenliuji/combat/PoisonedRAG/results/beir_results/serials.json'
-    # local_results_path = '/data2/chenliuji/combat/PoisonedRAG/results/beir_results/msmarco-contriever-new.json'
+    # local_results_path = 'PoisonedRAG/results/beir_results/nq-contriever-new.json'
+    local_results_path = 'PoisonedRAG/results/beir_results/serials.json'
+    # local_results_path = 'PoisonedRAG/results/beir_results/msmarco-contriever-new.json'
     with open(local_results_path, 'r') as f:
         results = json.load(f)
     return results
