@@ -2,7 +2,7 @@ import json
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "7"
 # 加载 nq-serials-questions-with-id.json 文件
-with open('/data2/chenliuji/combat/datasets/serial_questions/nq-serials-questions-with-id.json', 'r') as f:
+with open('combat/datasets/serial_questions/nq-serials-questions-with-id.json', 'r') as f:
     serial_questions = json.load(f)
 
 # 加载 PW-serials-ans6.json 文件
