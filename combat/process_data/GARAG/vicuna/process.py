@@ -1,7 +1,7 @@
 import json
 
 # Define the path to the JSON file
-file_path = "/data2/chenliuji/combat/main/process_data/GARAG/vicuna/GARAG5-ans.json"
+file_path = "main/process_data/GARAG/vicuna/GARAG5-ans.json"
 
 # Read and process the JSON file
 with open(file_path, 'r', encoding='utf-8') as file:
